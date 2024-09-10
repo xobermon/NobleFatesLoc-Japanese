@@ -465,21 +465,21 @@ Oct.Abilities.Vulnerable.description=1時間、対象のアーマーが10下が�
 \\	Oct.Belongings.Manager.autoClaimTooltip=Auto Claim allows Mortals to claim the Gear they prefer for each slot from the available Claimables.<br><br>Mortals choose in order of Title, followed by Maturity, then Ambition. They take into account Preferences, Skills, Job Assignments, Wants and Gear Buffs.<br><br>They do not claim more than they need nor do they consider the desires of other Mortals.<br><br>Gear is automatically marked Claimable if it passes the Claimable Rules. You can override the Claimable flag per Item.<br><br>The Auto Claim Rules dictate the additional rules that your Mortals must follow when claiming a Claimable.<br><br>You can override a Mortal's choices by Giving or Taking Items from them at any time.
 \\
 \\\\
-Oct.Belongings.Manager.autoClaimTooltip=\\untranslated
+Oct.Belongings.Manager.autoClaimTooltip=オート受け取りを使うと、モータルは選択可能な受け取り可能アイテムから各スロットに希望のギアを受け取ることができる。<br><br>モータルは称号、成熟度、野心の順に選択する。好み、スキル、職業、要望、装備バフが考慮に入れられる。<br><br>彼らは、必要以上のものを要求することはなく、他のモータルたちの欲望を考慮することもない。<br><br>装備は受け取り可能アイテムのルールに合格すると、自動的に受け取り可能フラグが設定される。アイテムごとに受け取り可能アイテムのフラグをオーバーライドできる。<br><br>オート受け取り可能アイテムのルールとは、受け取り可能なアイテムを受け取る際にモータルたちが従わなければならない追加のルールのことである。<br><br>いつでもアイテムを与えたり奪ったりすることで、モータルの選択を上書きできる。
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoJunkTooltip=Auto Junk allows you to define a set of Rules that will cause Items to be automatically considered Junk by your Mortals.<br><br>Junk can be stored separately from other Items (or not at all) and is easier to filter out and sell.<br><br>There are several disabled Rules in the list that can be beneficial to enable as your game progresses.
 \\
 \\\\
-Oct.Belongings.Manager.autoJunkTooltip=\\untranslated
+Oct.Belongings.Manager.autoJunkTooltip=オートジャンクの設定により、モータルによってアイテムが自動的にジャンク品とみなされるルールを定義できる。<br><br>ジャンク品は他のアイテムとは区別して保管するか、全く保管しないように設定できる。これにより、アイテムの絞り込みや販売が簡単になる。<br><br>無効になっているルールの中には、ゲームの進行に応じて有効にすると便利なものがいくつか含まれている。
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoSalvageTooltip=Auto Salvage allows you to define a set of Rules that will cause your Mortals to automatically queue Gear up to be Salvaged.<br><br>Salvaging recovers some resources when the Salvaged Item is destroyed, so it's a better option than letting it decay.
 \\
 \\\\
-Oct.Belongings.Manager.autoSalvageTooltip=\\untranslated
+Oct.Belongings.Manager.autoSalvageTooltip=オート分解機能では、ルールのセットを定義することで、モータルたちが自動的に装備を分解のキューに入れるように設定できる。<br><br>分解するとアイテムが破壊されたときに一部の資源が回復するので、腐らせるよりも望ましい選択肢だ。
 
 \\\\
 \\
@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn={belonging}に含まれている
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned=\\untranslated
+Oct.Code.Belongings.Returned={character}が{belonging}を返した
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed=\\untranslated
+Oct.Code.Belongings.Claimed={character}が{belonging}を受け取った
 
 \\\\
 \\
@@ -8184,7 +8184,7 @@ Oct.Code.Belongings.Tabs.Jobs=職務
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=オート受け取り
 
 \\\\
 \\
@@ -8198,21 +8198,21 @@ Oct.Code.Belongings.Header=所有物
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=今すぐ受け取る
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character}が{slot}のオプションを検討中...
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In=オート受け取りまで{timeframe}...
 
 \\\\
 \\
@@ -13959,7 +13959,7 @@ Oct.Code.Commands.Gather=収集
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=追加
 
 \\\\
 \\
@@ -14232,7 +14232,7 @@ Oct.Code.Common.Expected=期待値
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=全て
 
 \\\\
 \\
@@ -14731,14 +14731,14 @@ Oct.Code.Common.Ability={ability}アビリティ
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type={type}のルール
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=ルール
 
 \\\\
 \\
@@ -15629,7 +15629,7 @@ Oct.Code.FoodAndDrink.Header=食べ物・飲み物
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=オーバーライド
 
 \\\\
 \\
@@ -16426,7 +16426,7 @@ Oct.Code.Information.Belonging.LostValue={owners}{belonging}の価値が下が�
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced=\\untranslated
+Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(私,あなた,{to})}は{belonging}を受け取った
 
 \\\\
 \\
@@ -18191,7 +18191,7 @@ Oct.Code.Information.KingdomSize.Details.Second=あなたの王国は{size}
 \\	Oct.Code.Information.KingdomSize.Details.Third={kingdom} are a {size} Kingdom
 \\
 \\\\
-Oct.Code.Information.KingdomSize.Details.Third={kingdom}は{size}国だ
+Oct.Code.Information.KingdomSize.Details.Third={kingdom}は{size}王国だ
 
 \\\\
 \\
@@ -18214,7 +18214,7 @@ Oct.Code.Information.KingdomSizePreference.Compatibility={kingdomSize}を好ん�
 \\	Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(I prefer,you prefer,{subject} prefers)} {kingdomSize}
 \\
 \\\\
-Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(私は,あなたは,{subject}は)}{kingdomSize}を好んでいる
+Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(私,あなた,{subject})}は{kingdomSize}を好む
 
 \\\\
 \\
@@ -20177,21 +20177,21 @@ Oct.Code.Items.Verbs.Cooked=料理した
 \\	Oct.Code.Items.Common.Claim.Auto=Auto Claim
 \\
 \\\\
-Oct.Code.Items.Common.Claim.Auto=\\untranslated
+Oct.Code.Items.Common.Claim.Auto=オート受け取り
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Junk.Auto=Auto Junk
 \\
 \\\\
-Oct.Code.Items.Common.Junk.Auto=\\untranslated
+Oct.Code.Items.Common.Junk.Auto=オートジャンク
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Salvage.Auto=Auto Salvage
 \\
 \\\\
-Oct.Code.Items.Common.Salvage.Auto=\\untranslated
+Oct.Code.Items.Common.Salvage.Auto=オート分解
 
 \\\\
 \\
@@ -20205,14 +20205,14 @@ Oct.Code.Items.BaseEsteem=ベース敬意
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
-Oct.Code.Items.Claimable=\\untranslated
+Oct.Code.Items.Claimable=受け取り可能
 
 \\\\
 \\
 \\	Oct.Code.Items.Claimable.Mode=Claimable Mode
 \\
 \\\\
-Oct.Code.Items.Claimable.Mode=\\untranslated
+Oct.Code.Items.Claimable.Mode=受け取り可能モード
 
 \\\\
 \\
@@ -20296,7 +20296,7 @@ Oct.Code.Items.Common.Rarity=希少度
 \\	Oct.Code.Items.Common.SalvageMode=Salvage Mode
 \\
 \\\\
-Oct.Code.Items.Common.SalvageMode=\\untranslated
+Oct.Code.Items.Common.SalvageMode=分解モード
 
 \\\\
 \\
@@ -20324,14 +20324,14 @@ Oct.Code.Items.ValuePer=価値/
 \\	Oct.Code.Items.Log.Abandoned=abandoned
 \\
 \\\\
-Oct.Code.Items.Log.Abandoned=放棄した
+Oct.Code.Items.Log.Abandoned=は放棄した。対象: 
 
 \\\\
 \\
 \\	Oct.Code.Items.Log.Butchered=butchered
 \\
 \\\\
-Oct.Code.Items.Log.Butchered=解体した
+Oct.Code.Items.Log.Butchered=は解体した。対象: 
 
 \\\\
 \\
@@ -20795,7 +20795,7 @@ Oct.Code.Land=領地
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=English
+Oct.Code.Language.Name=日本語
 
 \\\\
 \\
@@ -22185,7 +22185,7 @@ Oct.Code.Props.Common.Open=開く
 \\	Oct.Code.Props.Common.PrivatelyOwned=Privately Owned
 \\
 \\\\
-Oct.Code.Props.Common.PrivatelyOwned=個人が所有中
+Oct.Code.Props.Common.PrivatelyOwned=個人所有
 
 \\\\
 \\
@@ -22626,7 +22626,7 @@ Oct.Code.Report.Send=送信
 \\	Oct.Code.research.Log.Transfer.Verb.Imprisoned=imprisoned
 \\
 \\\\
-Oct.Code.research.Log.Transfer.Verb.Imprisoned=投獄した
+Oct.Code.research.Log.Transfer.Verb.Imprisoned=は投獄した。対象: 
 
 \\\\
 \\
@@ -22675,7 +22675,7 @@ Oct.Code.Research.Log.Transfer.Verb.DefectedFrom=亡命した
 \\	Oct.Code.Research.Log.Transfer.Verb.Freed=freed
 \\
 \\\\
-Oct.Code.Research.Log.Transfer.Verb.Freed=解放した
+Oct.Code.Research.Log.Transfer.Verb.Freed=は解放した。対象: 
 
 \\\\
 \\
@@ -22892,21 +22892,21 @@ Oct.Code.Rooms.InBuilding=屋内
 \\	Oct.Code.Rule.Complex=Complex
 \\
 \\\\
-Oct.Code.Rule.Complex=\\untranslated
+Oct.Code.Rule.Complex=複雑
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.From=From
 \\
 \\\\
-Oct.Code.Rule.Hours.From=開始: 
+Oct.Code.Rule.Hours.From=開始時間：
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.To=To
 \\
 \\\\
-Oct.Code.Rule.Hours.To=終了: 
+Oct.Code.Rule.Hours.To=終了時間：
 
 \\\\
 \\
@@ -22920,105 +22920,105 @@ Oct.Code.Rules.Timeframe={fromHour}〜{toHour}
 \\	Oct.Code.Rules.Quantity=Qty {comparison} {count}
 \\
 \\\\
-Oct.Code.Rules.Quantity=\\untranslated
+Oct.Code.Rules.Quantity=個数：{comparison}{count}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Value=Value {comparison} {value}
 \\
 \\\\
-Oct.Code.Rules.Value=\\untranslated
+Oct.Code.Rules.Value=価値：{comparison}{value}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Durability=Durability {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Durability=\\untranslated
+Oct.Code.Rules.Durability=耐久力：{comparison}{durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Quality=Quality {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Quality=\\untranslated
+Oct.Code.Rules.Quality=品質：{comparison}{durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Rarity=Rarity {comparison} {rarity}
 \\
 \\\\
-Oct.Code.Rules.Rarity=\\untranslated
+Oct.Code.Rules.Rarity=希少度：{comparison}{rarity}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BuffPoints=Buff Points {comparison} {points}
 \\
 \\\\
-Oct.Code.Rules.BuffPoints=\\untranslated
+Oct.Code.Rules.BuffPoints=バフポイント：{comparison}{points}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is=Is
 \\
 \\\\
-Oct.Code.Rules.Is=\\untranslated
+Oct.Code.Rules.Is=は
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is.Type=Is {type}
 \\
 \\\\
-Oct.Code.Rules.Is.Type=\\untranslated
+Oct.Code.Rules.Is.Type=は{type}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare.Keep=Keep
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare.Keep=\\untranslated
+Oct.Code.Rules.BookSet.Spare.Keep=保管
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare=Is Spare Book Set (Keep {count})
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare=\\untranslated
+Oct.Code.Rules.BookSet.Spare=は予備の書籍セット（{count}を保管）
 
 \\\\
 \\
 \\	Oct.Code.Rules.Ambition=Prestige {comparison} {percent}% of Ambition
 \\
 \\\\
-Oct.Code.Rules.Ambition=\\untranslated
+Oct.Code.Rules.Ambition=名声：野心の{comparison}{percent}%相当
 
 \\\\
 \\
 \\	Oct.Code.Rules.Lodging=Prestige {comparison} {percent}% of Lodging
 \\
 \\\\
-Oct.Code.Rules.Lodging=\\untranslated
+Oct.Code.Rules.Lodging=名声：宿の{comparison}{percent}%相当
 
 \\\\
 \\
 \\	Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 \\
 \\\\
-Oct.Code.Rules.Prestige=\\untranslated
+Oct.Code.Rules.Prestige=名声：{comparison}{prestige}
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant.Limit=Limit
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant.Limit=\\untranslated
+Oct.Code.Rules.SatisfiesWant.Limit=制限
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant=Satisfies a Want ({limit})
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant=\\untranslated
+Oct.Code.Rules.SatisfiesWant=は要望を満たす（{limit}）
 
 \\\\
 \\
@@ -25869,7 +25869,7 @@ Oct.Conversations.Bandits.Parley.Decision.Tax.Demand.Okay.lines+=持ってけ。
 \\	Oct.Conversations.Bandits.Parley.Decision.Tax.Demand.Okay.Taxed.reason=taxed
 \\
 \\\\
-Oct.Conversations.Bandits.Parley.Decision.Tax.Demand.Okay.Taxed.reason=課税した 
+Oct.Conversations.Bandits.Parley.Decision.Tax.Demand.Okay.Taxed.reason=課税した
 
 \\\\
 \\
@@ -30205,7 +30205,7 @@ Oct.Information.MoralInteraction.Murdered.secondVerb=殺害した
 \\	Oct.Information.MoralInteraction.Murdered.thirdVerb=murdered
 \\
 \\\\
-Oct.Information.MoralInteraction.Murdered.thirdVerb=殺害した
+Oct.Information.MoralInteraction.Murdered.thirdVerb=は殺害した。対象: 
 
 \\\\
 \\
@@ -30228,14 +30228,14 @@ Oct.Information.MoralInteraction.Butchered.firstVerb=解体した
 \\	Oct.Information.MoralInteraction.Butchered.secondVerb=butchered
 \\
 \\\\
-Oct.Information.MoralInteraction.Butchered.secondVerb=解体した
+Oct.Information.MoralInteraction.Butchered.secondVerb=は解体した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Butchered.thirdVerb=butchered
 \\
 \\\\
-Oct.Information.MoralInteraction.Butchered.thirdVerb=解体した
+Oct.Information.MoralInteraction.Butchered.thirdVerb=は解体した。対象: 
 
 \\\\
 \\
@@ -30249,14 +30249,14 @@ Oct.Information.MoralInteraction.Captured.firstVerb=捕獲した
 \\	Oct.Information.MoralInteraction.Captured.secondVerb=captured
 \\
 \\\\
-Oct.Information.MoralInteraction.Captured.secondVerb=捕獲した
+Oct.Information.MoralInteraction.Captured.secondVerb=は捕獲した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Captured.thirdVerb=captured
 \\
 \\\\
-Oct.Information.MoralInteraction.Captured.thirdVerb=捕獲した
+Oct.Information.MoralInteraction.Captured.thirdVerb=は捕獲した。対象: 
 
 \\\\
 \\
@@ -30270,14 +30270,14 @@ Oct.Information.MoralInteraction.Freed.firstVerb=解放した
 \\	Oct.Information.MoralInteraction.Freed.secondVerb=freed
 \\
 \\\\
-Oct.Information.MoralInteraction.Freed.secondVerb=解放した
+Oct.Information.MoralInteraction.Freed.secondVerb=は解放した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Freed.thirdVerb=freed
 \\
 \\\\
-Oct.Information.MoralInteraction.Freed.thirdVerb=解放した
+Oct.Information.MoralInteraction.Freed.thirdVerb=は解放した。対象: 
 
 \\\\
 \\
@@ -30291,7 +30291,7 @@ Oct.Information.MoralInteraction.TreatedForeigner.firstVerb=治療した
 \\	Oct.Information.MoralInteraction.TreatedForeigner.secondVerb=treated
 \\
 \\\\
-Oct.Information.MoralInteraction.TreatedForeigner.secondVerb=治療した
+Oct.Information.MoralInteraction.TreatedForeigner.secondVerb=は治療した。対象: 
 
 \\\\
 \\
@@ -30323,14 +30323,14 @@ Oct.Information.MoralInteraction.Buried.firstVerb=埋葬した
 \\	Oct.Information.MoralInteraction.Buried.secondVerb=buried
 \\
 \\\\
-Oct.Information.MoralInteraction.Buried.secondVerb=埋葬した
+Oct.Information.MoralInteraction.Buried.secondVerb=は埋葬した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Buried.thirdVerb=buried
 \\
 \\\\
-Oct.Information.MoralInteraction.Buried.thirdVerb=埋葬した
+Oct.Information.MoralInteraction.Buried.thirdVerb=は埋葬した。対象: 
 
 \\\\
 \\
@@ -30351,14 +30351,14 @@ Oct.Information.MoralInteraction.Protected.firstVerb=守った
 \\	Oct.Information.MoralInteraction.Protected.secondVerb=fought for
 \\
 \\\\
-Oct.Information.MoralInteraction.Protected.secondVerb=守った
+Oct.Information.MoralInteraction.Protected.secondVerb=は戦った。貢献対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Protected.thirdVerb=fought for
 \\
 \\\\
-Oct.Information.MoralInteraction.Protected.thirdVerb=守った
+Oct.Information.MoralInteraction.Protected.thirdVerb=は戦った。貢献対象: 
 
 \\\\
 \\
@@ -30490,7 +30490,7 @@ Oct.Information.MoralInteraction.Recognized.firstVerb=認めた
 \\	Oct.Information.MoralInteraction.Recognized.secondVerb=recognized
 \\
 \\\\
-Oct.Information.MoralInteraction.Recognized.secondVerb=認めた
+Oct.Information.MoralInteraction.Recognized.secondVerb=は認めた。対象: 
 
 \\\\
 \\
@@ -30511,14 +30511,14 @@ Oct.Information.MoralInteraction.Intro.TookMercy.firstVerb=慈悲を与えた
 \\	Oct.Information.MoralInteraction.Intro.TookMercy.secondVerb=took mercy on
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookMercy.secondVerb=慈悲を与えた
+Oct.Information.MoralInteraction.Intro.TookMercy.secondVerb=は慈悲を与えた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Intro.TookMercy.thirdVerb=took mercy on
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookMercy.thirdVerb=慈悲を与えた
+Oct.Information.MoralInteraction.Intro.TookMercy.thirdVerb=は慈悲を与えた。対象: 
 
 \\\\
 \\
@@ -30532,14 +30532,14 @@ Oct.Information.MoralInteraction.AcceptedPeace.firstVerb=和平を受け入れ�
 \\	Oct.Information.MoralInteraction.AcceptedPeace.secondVerb=accepted peace with
 \\
 \\\\
-Oct.Information.MoralInteraction.AcceptedPeace.secondVerb=和平を受け入れた
+Oct.Information.MoralInteraction.AcceptedPeace.secondVerb=は和平を受け入れた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.AcceptedPeace.thirdVerb=accepted peace with
 \\
 \\\\
-Oct.Information.MoralInteraction.AcceptedPeace.thirdVerb=和平を受け入れた
+Oct.Information.MoralInteraction.AcceptedPeace.thirdVerb=は和平を受け入れた。対象: 
 
 \\\\
 \\
@@ -30553,14 +30553,14 @@ Oct.Information.MoralInteraction.EarnedPeace.firstVerb=和平を勝ち取った
 \\	Oct.Information.MoralInteraction.EarnedPeace.secondVerb=earned peace from
 \\
 \\\\
-Oct.Information.MoralInteraction.EarnedPeace.secondVerb=和平を勝ち取った
+Oct.Information.MoralInteraction.EarnedPeace.secondVerb=は和平を勝ち取った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.EarnedPeace.thirdVerb=earned peace from
 \\
 \\\\
-Oct.Information.MoralInteraction.EarnedPeace.thirdVerb=和平を勝ち取った
+Oct.Information.MoralInteraction.EarnedPeace.thirdVerb=は和平を勝ち取った。対象: 
 
 \\\\
 \\
@@ -30574,14 +30574,14 @@ Oct.Information.MoralInteraction.SoothedForeigner.firstVerb=なだめた
 \\	Oct.Information.MoralInteraction.SoothedForeigner.secondVerb=soothed
 \\
 \\\\
-Oct.Information.MoralInteraction.SoothedForeigner.secondVerb=なだめた
+Oct.Information.MoralInteraction.SoothedForeigner.secondVerb=はなだめた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.SoothedForeigner.thirdVerb=soothed
 \\
 \\\\
-Oct.Information.MoralInteraction.SoothedForeigner.thirdVerb=なだめた
+Oct.Information.MoralInteraction.SoothedForeigner.thirdVerb=はなだめた。対象: 
 
 \\\\
 \\
@@ -30595,14 +30595,14 @@ Oct.Information.MoralInteraction.Bandits.Evicted.firstVerb=追放した
 \\	Oct.Information.MoralInteraction.Bandits.Evicted.secondVerb=evicted
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Evicted.secondVerb=追放した 
+Oct.Information.MoralInteraction.Bandits.Evicted.secondVerb=は追放した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.Evicted.thirdVerb=evicted
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Evicted.thirdVerb=追放した 
+Oct.Information.MoralInteraction.Bandits.Evicted.thirdVerb=は追放した。対象: 
 
 \\\\
 \\
@@ -30616,14 +30616,14 @@ Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.firstVerb=恩赦を
 \\	Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.secondVerb=granted amnesty to
 \\
 \\\\
-Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.secondVerb=恩赦を与えた
+Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.secondVerb=は恩赦を与えた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.thirdVerb=granted amnesty to
 \\
 \\\\
-Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.thirdVerb=恩赦を与えた
+Oct.Information.MoralInteraction.Fraternizers.GrantedAmnesty.thirdVerb=は恩赦を与えた。対象: 
 
 \\\\
 \\
@@ -30637,7 +30637,7 @@ Oct.Information.MoralInteraction.Criminals.Evicted.firstVerb=追放した
 \\	Oct.Information.MoralInteraction.Criminals.Evicted.secondVerb=evicted
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.Evicted.secondVerb=追放した
+Oct.Information.MoralInteraction.Criminals.Evicted.secondVerb=は追放した。対象: 
 
 \\\\
 \\
@@ -30658,14 +30658,14 @@ Oct.Information.MoralInteraction.Quest.Completed.firstVerb=助けた
 \\	Oct.Information.MoralInteraction.Quest.Completed.secondVerb=helped
 \\
 \\\\
-Oct.Information.MoralInteraction.Quest.Completed.secondVerb=助けた
+Oct.Information.MoralInteraction.Quest.Completed.secondVerb=は助けた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Quest.Completed.thirdVerb=helped
 \\
 \\\\
-Oct.Information.MoralInteraction.Quest.Completed.thirdVerb=助けた
+Oct.Information.MoralInteraction.Quest.Completed.thirdVerb=は助けた。対象: 
 
 \\\\
 \\
@@ -30679,14 +30679,14 @@ Oct.Information.MoralInteraction.Demand.Met.firstVerb=要求に応えた
 \\	Oct.Information.MoralInteraction.Demand.Met.secondVerb=met demand from
 \\
 \\\\
-Oct.Information.MoralInteraction.Demand.Met.secondVerb=要求に応えた
+Oct.Information.MoralInteraction.Demand.Met.secondVerb=は要求に応えた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Demand.Met.thirdVerb=met demand from
 \\
 \\\\
-Oct.Information.MoralInteraction.Demand.Met.thirdVerb=要求に応えた
+Oct.Information.MoralInteraction.Demand.Met.thirdVerb=は要求に応えた。対象: 
 
 \\\\
 \\
@@ -30700,14 +30700,14 @@ Oct.Information.MoralInteraction.Gift.Accepted.firstVerb=贈り物を受け取�
 \\	Oct.Information.MoralInteraction.Gift.Accepted.secondVerb=accepted gift from
 \\
 \\\\
-Oct.Information.MoralInteraction.Gift.Accepted.secondVerb=贈り物を受け取った
+Oct.Information.MoralInteraction.Gift.Accepted.secondVerb=は贈り物を受け取った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Gift.Accepted.thirdVerb=accepted gift from
 \\
 \\\\
-Oct.Information.MoralInteraction.Gift.Accepted.thirdVerb=贈り物を受け取った
+Oct.Information.MoralInteraction.Gift.Accepted.thirdVerb=は贈り物を受け取った。対象: 
 
 \\\\
 \\
@@ -30721,7 +30721,7 @@ Oct.Information.MoralInteraction.TreatedAlly.firstVerb=治療した
 \\	Oct.Information.MoralInteraction.TreatedAlly.secondVerb=treated
 \\
 \\\\
-Oct.Information.MoralInteraction.TreatedAlly.secondVerb=治療した
+Oct.Information.MoralInteraction.TreatedAlly.secondVerb=は治療した。対象: 
 
 \\\\
 \\
@@ -30735,21 +30735,21 @@ Oct.Information.MoralInteraction.TreatedAlly.thirdVerb=治療した
 \\	Oct.Information.MoralInteraction.SoothedAlly.firstVerb=soothed
 \\
 \\\\
-Oct.Information.MoralInteraction.SoothedAlly.firstVerb=なだめた
+Oct.Information.MoralInteraction.SoothedAlly.firstVerb=はなだめた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.SoothedAlly.secondVerb=soothed
 \\
 \\\\
-Oct.Information.MoralInteraction.SoothedAlly.secondVerb=なだめた
+Oct.Information.MoralInteraction.SoothedAlly.secondVerb=はなだめた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.SoothedAlly.thirdVerb=soothed
 \\
 \\\\
-Oct.Information.MoralInteraction.SoothedAlly.thirdVerb=なだめた
+Oct.Information.MoralInteraction.SoothedAlly.thirdVerb=はなだめた。対象: 
 
 \\\\
 \\
@@ -30763,14 +30763,14 @@ Oct.Information.MoralInteraction.FeastedWith.firstVerb=祝宴を開いた
 \\	Oct.Information.MoralInteraction.FeastedWith.secondVerb=feasted with
 \\
 \\\\
-Oct.Information.MoralInteraction.FeastedWith.secondVerb=祝宴を開いた
+Oct.Information.MoralInteraction.FeastedWith.secondVerb=は祝宴を開いた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.FeastedWith.thirdVerb=feasted with
 \\
 \\\\
-Oct.Information.MoralInteraction.FeastedWith.thirdVerb=祝宴を開いた
+Oct.Information.MoralInteraction.FeastedWith.thirdVerb=は祝宴を開いた。対象: 
 
 \\\\
 \\
@@ -30784,14 +30784,14 @@ Oct.Information.MoralInteraction.Need.Exceeded.firstVerb=期待を上回った
 \\	Oct.Information.MoralInteraction.Need.Exceeded.secondVerb=exceeded an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Exceeded.secondVerb=期待を上回った
+Oct.Information.MoralInteraction.Need.Exceeded.secondVerb=は期待を上回った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Need.Exceeded.thirdVerb=exceeded an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Exceeded.thirdVerb=期待を上回った
+Oct.Information.MoralInteraction.Need.Exceeded.thirdVerb=は期待を上回った。対象: 
 
 \\\\
 \\
@@ -30805,14 +30805,14 @@ Oct.Information.MoralInteraction.Bandits.Punished.firstVerb=罰した
 \\	Oct.Information.MoralInteraction.Bandits.Punished.secondVerb=punished
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Punished.secondVerb=罰した
+Oct.Information.MoralInteraction.Bandits.Punished.secondVerb=は罰した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.Punished.thirdVerb=punished
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Punished.thirdVerb=罰した
+Oct.Information.MoralInteraction.Bandits.Punished.thirdVerb=は罰した。対象: 
 
 \\\\
 \\
@@ -30826,14 +30826,14 @@ Oct.Information.MoralInteraction.Need.Met.firstVerb=期待に応えた
 \\	Oct.Information.MoralInteraction.Need.Met.secondVerb=met an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Met.secondVerb=期待に応えた
+Oct.Information.MoralInteraction.Need.Met.secondVerb=は期待に応えた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Need.Met.thirdVerb=met an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Met.thirdVerb=期待に応えた
+Oct.Information.MoralInteraction.Need.Met.thirdVerb=は期待に応えた。対象: 
 
 \\\\
 \\
@@ -30847,14 +30847,14 @@ Oct.Information.MoralInteraction.TriedToTakeBelonging.firstVerb=所有物を奪�
 \\	Oct.Information.MoralInteraction.TriedToTakeBelonging.secondVerb=tried to take a belonging from
 \\
 \\\\
-Oct.Information.MoralInteraction.TriedToTakeBelonging.secondVerb=所有物を奪おうとした
+Oct.Information.MoralInteraction.TriedToTakeBelonging.secondVerb=は所有物を奪おうと試みた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.TriedToTakeBelonging.thirdVerb=tried to take a belonging from
 \\
 \\\\
-Oct.Information.MoralInteraction.TriedToTakeBelonging.thirdVerb=所有物を奪おうとした
+Oct.Information.MoralInteraction.TriedToTakeBelonging.thirdVerb=は所有物を奪おうと試みた。対象: 
 
 \\\\
 \\
@@ -30868,14 +30868,14 @@ Oct.Information.MoralInteraction.DefeatedRaid.firstVerb=襲撃を撃退した
 \\	Oct.Information.MoralInteraction.DefeatedRaid.secondVerb=defeated raid of
 \\
 \\\\
-Oct.Information.MoralInteraction.DefeatedRaid.secondVerb=襲撃を撃退した
+Oct.Information.MoralInteraction.DefeatedRaid.secondVerb=は襲撃に敗れた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.DefeatedRaid.thirdVerb=defeated raid of
 \\
 \\\\
-Oct.Information.MoralInteraction.DefeatedRaid.thirdVerb=襲撃を撃退した
+Oct.Information.MoralInteraction.DefeatedRaid.thirdVerb=は襲撃に敗れた。対象: 
 
 \\\\
 \\
@@ -30889,14 +30889,14 @@ Oct.Information.MoralInteraction.TookBelonging.firstVerb=所有物を奪った
 \\	Oct.Information.MoralInteraction.TookBelonging.secondVerb=took a belonging from
 \\
 \\\\
-Oct.Information.MoralInteraction.TookBelonging.secondVerb=所有物を奪った
+Oct.Information.MoralInteraction.TookBelonging.secondVerb=は所有物を奪った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.TookBelonging.thirdVerb=took a belonging from
 \\
 \\\\
-Oct.Information.MoralInteraction.TookBelonging.thirdVerb=所有物を奪った
+Oct.Information.MoralInteraction.TookBelonging.thirdVerb=は所有物を奪った。対象: 
 
 \\\\
 \\
@@ -30910,14 +30910,14 @@ Oct.Information.MoralInteraction.SidedWith.firstVerb=支持しなかった
 \\	Oct.Information.MoralInteraction.SidedWith.secondVerb=sided with over
 \\
 \\\\
-Oct.Information.MoralInteraction.SidedWith.secondVerb=支持しなかった
+Oct.Information.MoralInteraction.SidedWith.secondVerb=はこちらを選んだ。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.SidedWith.thirdVerb=sided with over
 \\
 \\\\
-Oct.Information.MoralInteraction.SidedWith.thirdVerb=支持しなかった
+Oct.Information.MoralInteraction.SidedWith.thirdVerb=はこちらを選んだ。対象: 
 
 \\\\
 \\
@@ -30931,14 +30931,14 @@ Oct.Information.MoralInteraction.Intro.TookCrown.firstVerb=王冠を奪った
 \\	Oct.Information.MoralInteraction.Intro.TookCrown.secondVerb=took the crown from
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookCrown.secondVerb=王冠を奪った
+Oct.Information.MoralInteraction.Intro.TookCrown.secondVerb=は王冠を奪った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Intro.TookCrown.thirdVerb=took the crown from
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookCrown.thirdVerb=王冠を奪った
+Oct.Information.MoralInteraction.Intro.TookCrown.thirdVerb=は王冠を奪った。対象: 
 
 \\\\
 \\
@@ -30952,14 +30952,14 @@ Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.firstVerb=金を払�
 \\	Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.secondVerb=paid to get items back from
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.secondVerb=金を払ってアイテムを奪還した
+Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.secondVerb=は金を払ってアイテムを奪還した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.thirdVerb=paid to get items back from
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.thirdVerb=金を払ってアイテムを奪還した
+Oct.Information.MoralInteraction.Bandits.RansomedItemsFrom.thirdVerb=は金を払ってアイテムを奪還した。対象: 
 
 \\\\
 \\
@@ -30973,14 +30973,14 @@ Oct.Information.MoralInteraction.Need.Unmet.firstVerb=期待に応えられな�
 \\	Oct.Information.MoralInteraction.Need.Unmet.secondVerb=failed to meet an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Unmet.secondVerb=期待に応えられなかった
+Oct.Information.MoralInteraction.Need.Unmet.secondVerb=は期待に応えられなかった。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Need.Unmet.thirdVerb=failed to meet an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Unmet.thirdVerb=期待に応えられなかった
+Oct.Information.MoralInteraction.Need.Unmet.thirdVerb=は期待に応えられなかった。対象: 
 
 \\\\
 \\
@@ -30994,14 +30994,14 @@ Oct.Information.MoralInteraction.ParticipatedInRaidOf.firstVerb=襲撃に参加�
 \\	Oct.Information.MoralInteraction.ParticipatedInRaidOf.secondVerb=participated in a raid of
 \\
 \\\\
-Oct.Information.MoralInteraction.ParticipatedInRaidOf.secondVerb=襲撃に参加した
+Oct.Information.MoralInteraction.ParticipatedInRaidOf.secondVerb=は襲撃に参加した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.ParticipatedInRaidOf.thirdVerb=participated in a raid of
 \\
 \\\\
-Oct.Information.MoralInteraction.ParticipatedInRaidOf.thirdVerb=襲撃に参加した
+Oct.Information.MoralInteraction.ParticipatedInRaidOf.thirdVerb=は襲撃に参加した。対象: 
 
 \\\\
 \\
@@ -31015,14 +31015,14 @@ Oct.Information.MoralInteraction.Bandits.Taxed.firstVerb=課税した
 \\	Oct.Information.MoralInteraction.Bandits.Taxed.secondVerb=taxed
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Taxed.secondVerb=課税した 
+Oct.Information.MoralInteraction.Bandits.Taxed.secondVerb=は課税した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.Taxed.thirdVerb=taxed
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.Taxed.thirdVerb=課税した 
+Oct.Information.MoralInteraction.Bandits.Taxed.thirdVerb=は課税した。対象: 
 
 \\\\
 \\
@@ -31036,14 +31036,14 @@ Oct.Information.MoralInteraction.Criminals.Intimidated.firstVerb=脅迫した
 \\	Oct.Information.MoralInteraction.Criminals.Intimidated.secondVerb=intimidated
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.Intimidated.secondVerb=脅迫した
+Oct.Information.MoralInteraction.Criminals.Intimidated.secondVerb=は脅迫した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Criminals.Intimidated.thirdVerb=intimidated
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.Intimidated.thirdVerb=脅迫した
+Oct.Information.MoralInteraction.Criminals.Intimidated.thirdVerb=は脅迫した。対象: 
 
 \\\\
 \\
@@ -31057,14 +31057,14 @@ Oct.Information.MoralInteraction.SuccessfullyRaided.firstVerb=襲撃に成功し
 \\	Oct.Information.MoralInteraction.SuccessfullyRaided.secondVerb=successfully raided
 \\
 \\\\
-Oct.Information.MoralInteraction.SuccessfullyRaided.secondVerb=襲撃に成功した
+Oct.Information.MoralInteraction.SuccessfullyRaided.secondVerb=は襲撃に成功した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.SuccessfullyRaided.thirdVerb=successfully raided
 \\
 \\\\
-Oct.Information.MoralInteraction.SuccessfullyRaided.thirdVerb=襲撃に成功した
+Oct.Information.MoralInteraction.SuccessfullyRaided.thirdVerb=は襲撃に成功した。対象: 
 
 \\\\
 \\
@@ -31078,14 +31078,14 @@ Oct.Information.MoralInteraction.Raided.firstVerb=襲撃した
 \\	Oct.Information.MoralInteraction.Raided.secondVerb=raided
 \\
 \\\\
-Oct.Information.MoralInteraction.Raided.secondVerb=襲撃した
+Oct.Information.MoralInteraction.Raided.secondVerb=は襲撃した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Raided.thirdVerb=raided
 \\
 \\\\
-Oct.Information.MoralInteraction.Raided.thirdVerb=襲撃した
+Oct.Information.MoralInteraction.Raided.thirdVerb=は襲撃した。対象: 
 
 \\\\
 \\
@@ -31099,14 +31099,14 @@ Oct.Information.MoralInteraction.Quest.Failed.firstVerb=支援できなかった
 \\	Oct.Information.MoralInteraction.Quest.Failed.secondVerb=failed to help
 \\
 \\\\
-Oct.Information.MoralInteraction.Quest.Failed.secondVerb=支援できなかった
+Oct.Information.MoralInteraction.Quest.Failed.secondVerb=は支援に失敗した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=failed to help
 \\
 \\\\
-Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=支援できなかった
+Oct.Information.MoralInteraction.Quest.Failed.thirdVerb=は支援に失敗した。対象: 
 
 \\\\
 \\
@@ -31120,14 +31120,14 @@ Oct.Information.MoralInteraction.StartedFight.firstVerb=戦闘を開始した
 \\	Oct.Information.MoralInteraction.StartedFight.secondVerb=started a fight with
 \\
 \\\\
-Oct.Information.MoralInteraction.StartedFight.secondVerb=戦闘を開始した
+Oct.Information.MoralInteraction.StartedFight.secondVerb=は戦いを開始した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.StartedFight.thirdVerb=started a fight with
 \\
 \\\\
-Oct.Information.MoralInteraction.StartedFight.thirdVerb=戦闘を開始した
+Oct.Information.MoralInteraction.StartedFight.thirdVerb=は戦いを開始した。対象: 
 
 \\\\
 \\
@@ -31141,14 +31141,14 @@ Oct.Information.MoralInteraction.Need.Subceeded.firstVerb=期待に応えた
 \\	Oct.Information.MoralInteraction.Need.Subceeded.secondVerb=subceeded an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Subceeded.secondVerb=期待に応えた 
+Oct.Information.MoralInteraction.Need.Subceeded.secondVerb=は期待に応えた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Need.Subceeded.thirdVerb=subceeded an expectation for
 \\
 \\\\
-Oct.Information.MoralInteraction.Need.Subceeded.thirdVerb=期待に応えた 
+Oct.Information.MoralInteraction.Need.Subceeded.thirdVerb=は期待に応えた。対象: 
 
 \\\\
 \\
@@ -31162,14 +31162,14 @@ Oct.Information.MoralInteraction.Held.firstVerb=拘束した
 \\	Oct.Information.MoralInteraction.Held.secondVerb=held
 \\
 \\\\
-Oct.Information.MoralInteraction.Held.secondVerb=拘束した 
+Oct.Information.MoralInteraction.Held.secondVerb=は拘束した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Held.thirdVerb=held
 \\
 \\\\
-Oct.Information.MoralInteraction.Held.thirdVerb=拘束した 
+Oct.Information.MoralInteraction.Held.thirdVerb=は拘束した。対象: 
 
 \\\\
 \\
@@ -31183,14 +31183,14 @@ Oct.Information.MoralInteraction.Traded.firstVerb=交易を行った
 \\	Oct.Information.MoralInteraction.Traded.secondVerb=traded
 \\
 \\\\
-Oct.Information.MoralInteraction.Traded.secondVerb=交易を行った
+Oct.Information.MoralInteraction.Traded.secondVerb=は交易を行った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Traded.thirdVerb=traded
 \\
 \\\\
-Oct.Information.MoralInteraction.Traded.thirdVerb=交易を行った
+Oct.Information.MoralInteraction.Traded.thirdVerb=は交易を行った。対象: 
 
 \\\\
 \\
@@ -31204,14 +31204,14 @@ Oct.Information.MoralInteraction.Enslaved.firstVerb=奴隷化した
 \\	Oct.Information.MoralInteraction.Enslaved.secondVerb=enslaved
 \\
 \\\\
-Oct.Information.MoralInteraction.Enslaved.secondVerb=奴隷化した
+Oct.Information.MoralInteraction.Enslaved.secondVerb=は奴隷化した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Enslaved.thirdVerb=enslaved
 \\
 \\\\
-Oct.Information.MoralInteraction.Enslaved.thirdVerb=奴隷化した
+Oct.Information.MoralInteraction.Enslaved.thirdVerb=は奴隷化した。対象: 
 
 \\\\
 \\
@@ -31225,14 +31225,14 @@ Oct.Information.MoralInteraction.AttemptedToImprison.firstVerb=投獄しよう�
 \\	Oct.Information.MoralInteraction.AttemptedToImprison.secondVerb=attempted to imprison
 \\
 \\\\
-Oct.Information.MoralInteraction.AttemptedToImprison.secondVerb=投獄しようとした
+Oct.Information.MoralInteraction.AttemptedToImprison.secondVerb=は投獄を試みた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.AttemptedToImprison.thirdVerb=attempted to imprison
 \\
 \\\\
-Oct.Information.MoralInteraction.AttemptedToImprison.thirdVerb=投獄しようとした
+Oct.Information.MoralInteraction.AttemptedToImprison.thirdVerb=は投獄を試みた。対象: 
 
 \\\\
 \\
@@ -31246,14 +31246,14 @@ Oct.Information.MoralInteraction.Abandoned.firstVerb=放棄した
 \\	Oct.Information.MoralInteraction.Abandoned.secondVerb=abandoned
 \\
 \\\\
-Oct.Information.MoralInteraction.Abandoned.secondVerb=放棄した
+Oct.Information.MoralInteraction.Abandoned.secondVerb=は放棄した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Abandoned.thirdVerb=abandoned
 \\
 \\\\
-Oct.Information.MoralInteraction.Abandoned.thirdVerb=放棄した
+Oct.Information.MoralInteraction.Abandoned.thirdVerb=は放棄した。対象: 
 
 \\\\
 \\
@@ -31267,14 +31267,14 @@ Oct.Information.MoralInteraction.StoleFrom.firstVerb=盗んだ
 \\	Oct.Information.MoralInteraction.StoleFrom.secondVerb=stole from
 \\
 \\\\
-Oct.Information.MoralInteraction.StoleFrom.secondVerb=盗んだ 
+Oct.Information.MoralInteraction.StoleFrom.secondVerb=は盗んだ。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.StoleFrom.thirdVerb=stole from
 \\
 \\\\
-Oct.Information.MoralInteraction.StoleFrom.thirdVerb=盗んだ 
+Oct.Information.MoralInteraction.StoleFrom.thirdVerb=は盗んだ。対象: 
 
 \\\\
 \\
@@ -31288,14 +31288,14 @@ Oct.Information.MoralInteraction.Robbed.firstVerb=略奪した
 \\	Oct.Information.MoralInteraction.Robbed.secondVerb=robbed
 \\
 \\\\
-Oct.Information.MoralInteraction.Robbed.secondVerb=略奪した
+Oct.Information.MoralInteraction.Robbed.secondVerb=は強盗を働いた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Robbed.thirdVerb=robbed
 \\
 \\\\
-Oct.Information.MoralInteraction.Robbed.thirdVerb=略奪した
+Oct.Information.MoralInteraction.Robbed.thirdVerb=は強盗を働いた。対象: 
 
 \\\\
 \\
@@ -31309,21 +31309,21 @@ Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.firstVerb=追放しよ
 \\	Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.secondVerb=attempted to evict
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.secondVerb=追放しようとした
+Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.secondVerb=は追放を試みた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.thirdVerb=attempted to evict
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.thirdVerb=追放しようとした
+Oct.Information.MoralInteraction.Bandits.AttemptedToEvict.thirdVerb=は追放を試みた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.firstVerb=attempted to evict
 \\
 \\\\
-Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.firstVerb=追放しようとした
+Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.firstVerb=は追放を試みた。対象: 
 
 \\\\
 \\
@@ -31337,7 +31337,7 @@ Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.secondVerb=追放しよ
 \\	Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.thirdVerb=attempted to evict
 \\
 \\\\
-Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.thirdVerb=追放しようとした
+Oct.Information.MoralInteraction.Rebels.AttemptedToEvict.thirdVerb=は追放を試みた。対象: 
 
 \\\\
 \\
@@ -31351,14 +31351,14 @@ Oct.Information.MoralInteraction.Fraternizers.Judged.firstVerb=裁いた
 \\	Oct.Information.MoralInteraction.Fraternizers.Judged.secondVerb=judged
 \\
 \\\\
-Oct.Information.MoralInteraction.Fraternizers.Judged.secondVerb=裁いた
+Oct.Information.MoralInteraction.Fraternizers.Judged.secondVerb=は裁いた。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Fraternizers.Judged.thirdVerb=judged
 \\
 \\\\
-Oct.Information.MoralInteraction.Fraternizers.Judged.thirdVerb=裁いた
+Oct.Information.MoralInteraction.Fraternizers.Judged.thirdVerb=は裁いた。対象: 
 
 \\\\
 \\
@@ -31372,14 +31372,14 @@ Oct.Information.MoralInteraction.Killed.firstVerb=殺した
 \\	Oct.Information.MoralInteraction.Killed.secondVerb=killed
 \\
 \\\\
-Oct.Information.MoralInteraction.Killed.secondVerb=殺した
+Oct.Information.MoralInteraction.Killed.secondVerb=は殺した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Killed.thirdVerb=killed
 \\
 \\\\
-Oct.Information.MoralInteraction.Killed.thirdVerb=殺した
+Oct.Information.MoralInteraction.Killed.thirdVerb=は殺した。対象: 
 
 \\\\
 \\
@@ -31393,14 +31393,14 @@ Oct.Information.MoralInteraction.DeclaredWar.firstVerb=宣戦布告した
 \\	Oct.Information.MoralInteraction.DeclaredWar.secondVerb=declared war on
 \\
 \\\\
-Oct.Information.MoralInteraction.DeclaredWar.secondVerb=宣戦布告した
+Oct.Information.MoralInteraction.DeclaredWar.secondVerb=は宣戦布告した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.DeclaredWar.thirdVerb=declared war on
 \\
 \\\\
-Oct.Information.MoralInteraction.DeclaredWar.thirdVerb=宣戦布告した
+Oct.Information.MoralInteraction.DeclaredWar.thirdVerb=は宣戦布告した。対象: 
 
 \\\\
 \\
@@ -31414,14 +31414,14 @@ Oct.Information.MoralInteraction.AtWarWith.firstVerb=戦争状態にあった
 \\	Oct.Information.MoralInteraction.AtWarWith.secondVerb=was at war with
 \\
 \\\\
-Oct.Information.MoralInteraction.AtWarWith.secondVerb=戦争状態にあった
+Oct.Information.MoralInteraction.AtWarWith.secondVerb=は戦争状態にあった。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.AtWarWith.thirdVerb=was at war with
 \\
 \\\\
-Oct.Information.MoralInteraction.AtWarWith.thirdVerb=戦争状態にあった
+Oct.Information.MoralInteraction.AtWarWith.thirdVerb=は戦争状態にあった。対象: 
 
 \\\\
 \\
@@ -31435,35 +31435,35 @@ Oct.Information.MoralInteraction.Bandits.BoughtOut.firstVerb=買収した
 \\	Oct.Information.MoralInteraction.Bandits.BoughtOut.secondVerb=bought out
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.BoughtOut.secondVerb=買収した
+Oct.Information.MoralInteraction.Bandits.BoughtOut.secondVerb=は買収した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Bandits.BoughtOut.thirdVerb=bought out
 \\
 \\\\
-Oct.Information.MoralInteraction.Bandits.BoughtOut.thirdVerb=買収した
+Oct.Information.MoralInteraction.Bandits.BoughtOut.thirdVerb=は買収した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Criminals.BoughtOut.firstVerb=bought out
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.BoughtOut.firstVerb=買収した
+Oct.Information.MoralInteraction.Criminals.BoughtOut.firstVerb=は買収した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Criminals.BoughtOut.secondVerb=bought out
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.BoughtOut.secondVerb=買収した
+Oct.Information.MoralInteraction.Criminals.BoughtOut.secondVerb=は買収した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Criminals.BoughtOut.thirdVerb=bought out
 \\
 \\\\
-Oct.Information.MoralInteraction.Criminals.BoughtOut.thirdVerb=買収した
+Oct.Information.MoralInteraction.Criminals.BoughtOut.thirdVerb=は買収した。対象: 
 
 \\\\
 \\
@@ -31477,14 +31477,14 @@ Oct.Information.MoralInteraction.Demand.Rejected.firstVerb=要求を拒否した
 \\	Oct.Information.MoralInteraction.Demand.Rejected.secondVerb=rejected demand from
 \\
 \\\\
-Oct.Information.MoralInteraction.Demand.Rejected.secondVerb=要求を拒否した
+Oct.Information.MoralInteraction.Demand.Rejected.secondVerb=は要求を拒否した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Demand.Rejected.thirdVerb=rejected demand from
 \\
 \\\\
-Oct.Information.MoralInteraction.Demand.Rejected.thirdVerb=要求を拒否した
+Oct.Information.MoralInteraction.Demand.Rejected.thirdVerb=は要求を拒否した。対象: 
 
 \\\\
 \\
@@ -31498,14 +31498,14 @@ Oct.Information.MoralInteraction.Gift.Rejected.firstVerb=贈り物を拒否し�
 \\	Oct.Information.MoralInteraction.Gift.Rejected.secondVerb=rejected gift from
 \\
 \\\\
-Oct.Information.MoralInteraction.Gift.Rejected.secondVerb=贈り物を拒否した
+Oct.Information.MoralInteraction.Gift.Rejected.secondVerb=は贈り物を拒否した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Gift.Rejected.thirdVerb=rejected gift from
 \\
 \\\\
-Oct.Information.MoralInteraction.Gift.Rejected.thirdVerb=贈り物を拒否した
+Oct.Information.MoralInteraction.Gift.Rejected.thirdVerb=は贈り物を拒否した。対象: 
 
 \\\\
 \\
@@ -31519,14 +31519,14 @@ Oct.Information.MoralInteraction.Intro.TookSupplies.firstVerb=物資を調達し
 \\	Oct.Information.MoralInteraction.Intro.TookSupplies.secondVerb=took supplies from
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookSupplies.secondVerb=物資を調達した
+Oct.Information.MoralInteraction.Intro.TookSupplies.secondVerb=は物資を調達した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Intro.TookSupplies.thirdVerb=took supplies from
 \\
 \\\\
-Oct.Information.MoralInteraction.Intro.TookSupplies.thirdVerb=物資を調達した
+Oct.Information.MoralInteraction.Intro.TookSupplies.thirdVerb=は物資を調達した。対象: 
 
 \\\\
 \\
@@ -31540,14 +31540,14 @@ Oct.Information.MoralInteraction.RejectedPeace.firstVerb=和平を拒否した
 \\	Oct.Information.MoralInteraction.RejectedPeace.secondVerb=rejected peace with
 \\
 \\\\
-Oct.Information.MoralInteraction.RejectedPeace.secondVerb=和平を拒否した
+Oct.Information.MoralInteraction.RejectedPeace.secondVerb=は和平を拒否した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.RejectedPeace.thirdVerb=rejected peace with
 \\
 \\\\
-Oct.Information.MoralInteraction.RejectedPeace.thirdVerb=和平を拒否した
+Oct.Information.MoralInteraction.RejectedPeace.thirdVerb=は和平を拒否した。対象: 
 
 \\\\
 \\
@@ -31570,7 +31570,7 @@ Oct.Information.MoralInteraction.AllowedBabyLoss.firstVerb=死なせた
 \\	Oct.Information.MoralInteraction.AllowedBabyLoss.secondVerb=allowed loss for
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedBabyLoss.secondVerb=死なせた
+Oct.Information.MoralInteraction.AllowedBabyLoss.secondVerb=は死を許した。対象: 
 
 \\\\
 \\
@@ -31600,14 +31600,14 @@ Oct.Information.MoralInteraction.AllowedStillbirth.firstVerb=死産させた
 \\	Oct.Information.MoralInteraction.AllowedStillbirth.secondVerb=allowed stillbirth of
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedStillbirth.secondVerb=死産させた
+Oct.Information.MoralInteraction.AllowedStillbirth.secondVerb=は死産を許した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.AllowedStillbirth.thirdVerb=allowed stillbirth of
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedStillbirth.thirdVerb=死産させた
+Oct.Information.MoralInteraction.AllowedStillbirth.thirdVerb=は死産を許した。対象: 
 
 \\\\
 \\
@@ -31621,14 +31621,14 @@ Oct.Information.MoralInteraction.CheatedOn.firstVerb=裏切った
 \\	Oct.Information.MoralInteraction.CheatedOn.secondVerb=cheated on
 \\
 \\\\
-Oct.Information.MoralInteraction.CheatedOn.secondVerb=裏切った
+Oct.Information.MoralInteraction.CheatedOn.secondVerb=は裏切った。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.CheatedOn.thirdVerb=cheated on
 \\
 \\\\
-Oct.Information.MoralInteraction.CheatedOn.thirdVerb=裏切った
+Oct.Information.MoralInteraction.CheatedOn.thirdVerb=は裏切った。対象: 
 
 \\\\
 \\
@@ -31659,14 +31659,14 @@ Oct.Information.MoralInteraction.AllowedDeath.firstVerb=死なせた
 \\	Oct.Information.MoralInteraction.AllowedDeath.secondVerb=allowed the death of
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedDeath.secondVerb=死なせた
+Oct.Information.MoralInteraction.AllowedDeath.secondVerb=は死を許した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.AllowedDeath.thirdVerb=allowed the death of
 \\
 \\\\
-Oct.Information.MoralInteraction.AllowedDeath.thirdVerb=死なせた
+Oct.Information.MoralInteraction.AllowedDeath.thirdVerb=は死を許した。対象: 
 
 \\\\
 \\
@@ -31680,14 +31680,14 @@ Oct.Information.MoralInteraction.Imprisoned.firstVerb=投獄した
 \\	Oct.Information.MoralInteraction.Imprisoned.secondVerb=imprisoned
 \\
 \\\\
-Oct.Information.MoralInteraction.Imprisoned.secondVerb=投獄した
+Oct.Information.MoralInteraction.Imprisoned.secondVerb=は投獄した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Imprisoned.thirdVerb=imprisoned
 \\
 \\\\
-Oct.Information.MoralInteraction.Imprisoned.thirdVerb=投獄した
+Oct.Information.MoralInteraction.Imprisoned.thirdVerb=は投獄した。対象: 
 
 \\\\
 \\
@@ -31717,7 +31717,7 @@ Oct.Information.MoralInteraction.HandedOver.secondVerb=引き渡した
 \\	Oct.Information.MoralInteraction.HandedOver.thirdVerb=extradited
 \\
 \\\\
-Oct.Information.MoralInteraction.HandedOver.thirdVerb=引き渡した
+Oct.Information.MoralInteraction.HandedOver.thirdVerb=は引き渡した。対象: 
 
 \\\\
 \\
@@ -31747,7 +31747,7 @@ Oct.Information.MoralInteraction.Exhumed.secondVerb=掘り起こした
 \\	Oct.Information.MoralInteraction.Exhumed.thirdVerb=exhumed
 \\
 \\\\
-Oct.Information.MoralInteraction.Exhumed.thirdVerb=掘り起こした
+Oct.Information.MoralInteraction.Exhumed.thirdVerb=は掘り起こした。対象: 
 
 \\\\
 \\
@@ -31761,14 +31761,14 @@ Oct.Information.MoralInteraction.Conquered.firstVerb=征服した
 \\	Oct.Information.MoralInteraction.Conquered.secondVerb=conquered
 \\
 \\\\
-Oct.Information.MoralInteraction.Conquered.secondVerb=征服した
+Oct.Information.MoralInteraction.Conquered.secondVerb=は征服した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.Conquered.thirdVerb=conquered
 \\
 \\\\
-Oct.Information.MoralInteraction.Conquered.thirdVerb=征服した
+Oct.Information.MoralInteraction.Conquered.thirdVerb=は征服した。対象: 
 
 \\\\
 \\
@@ -31782,14 +31782,14 @@ Oct.Information.MoralInteraction.RefusedToProtect.firstVerb=保護しなかっ�
 \\	Oct.Information.MoralInteraction.RefusedToProtect.secondVerb=refused to protect
 \\
 \\\\
-Oct.Information.MoralInteraction.RefusedToProtect.secondVerb=保護しなかった
+Oct.Information.MoralInteraction.RefusedToProtect.secondVerb=は保護を拒否した。対象: 
 
 \\\\
 \\
 \\	Oct.Information.MoralInteraction.RefusedToProtect.thirdVerb=refused to protect
 \\
 \\\\
-Oct.Information.MoralInteraction.RefusedToProtect.thirdVerb=保護しなかった
+Oct.Information.MoralInteraction.RefusedToProtect.thirdVerb=は保護を拒否した。対象: 
 
 \\\\
 \\
@@ -32872,7 +32872,7 @@ Oct.Items.Categories.Seeds.name=種
 \\	Oct.Items.Categories.Food.Vegetarian.name=Vegetarian
 \\
 \\\\
-Oct.Items.Categories.Food.Vegetarian.name=\\untranslated
+Oct.Items.Categories.Food.Vegetarian.name=ベジタリアン
 
 \\\\
 \\
@@ -33931,14 +33931,14 @@ Oct.Items.PropCrate.pluralName=設備箱
 \\	Oct.Items.PropCrate.nameFormat={type} Crate
 \\
 \\\\
-Oct.Items.PropCrate.nameFormat=\\untranslated
+Oct.Items.PropCrate.nameFormat={type}箱詰め
 
 \\\\
 \\
 \\	Oct.Items.PropCrate.BookSet.nameFormat={type}
 \\
 \\\\
-Oct.Items.PropCrate.BookSet.nameFormat=\\untranslated
+Oct.Items.PropCrate.BookSet.nameFormat={type}
 
 \\\\
 \\
@@ -62068,280 +62068,280 @@ Oct.Rooms.Work.name=作業場
 \\	Oct.Rules.All.name=All of
 \\
 \\\\
-Oct.Rules.All.name=\\untranslated
+Oct.Rules.All.name=全ての
 
 \\\\
 \\
 \\	Oct.Rules.All.tooltip=True when all child rules are True (False when Empty).
 \\
 \\\\
-Oct.Rules.All.tooltip=\\untranslated
+Oct.Rules.All.tooltip=全ての子ルールがTrueの場合、True（Emptyの場合はFalse）。
 
 \\\\
 \\
 \\	Oct.Rules.Any.name=Any of
 \\
 \\\\
-Oct.Rules.Any.name=\\untranslated
+Oct.Rules.Any.name=任意の
 
 \\\\
 \\
 \\	Oct.Rules.Any.tooltip=True when any child rule is True (False when empty).
 \\
 \\\\
-Oct.Rules.Any.tooltip=\\untranslated
+Oct.Rules.Any.tooltip=任意の子ルールがTrueのときTrue（空のときはFalse）。
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.name=Buff Pts
 \\
 \\\\
-Oct.Rules.BuffPoints.name=\\untranslated
+Oct.Rules.BuffPoints.name=バフポイント
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.tooltip=True when the sum of +'s on an Item meets the criteria.
 \\
 \\\\
-Oct.Rules.BuffPoints.tooltip=\\untranslated
+Oct.Rules.BuffPoints.tooltip=アイテムの+の合計が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.Durability.name=Durability
 \\
 \\\\
-Oct.Rules.Durability.name=\\untranslated
+Oct.Rules.Durability.name=耐久力
 
 \\\\
 \\
 \\	Oct.Rules.Durability.tooltip=True when Item Durability meets the criteria.
 \\
 \\\\
-Oct.Rules.Durability.tooltip=\\untranslated
+Oct.Rules.Durability.tooltip=アイテムの耐久力が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.name=During a Feast
 \\
 \\\\
-Oct.Rules.DuringFeast.name=\\untranslated
+Oct.Rules.DuringFeast.name=祝宴の間
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.tooltip=True during a Feast.
 \\
 \\\\
-Oct.Rules.DuringFeast.tooltip=\\untranslated
+Oct.Rules.DuringFeast.tooltip=祝宴の間はTrue。
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.name=During a Wedding
 \\
 \\\\
-Oct.Rules.DuringWedding.name=\\untranslated
+Oct.Rules.DuringWedding.name=結婚式の間
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.tooltip=True during a Wedding.
 \\
 \\\\
-Oct.Rules.DuringWedding.tooltip=\\untranslated
+Oct.Rules.DuringWedding.tooltip=結婚式中はTrue。
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.name=Is Claimable
 \\
 \\\\
-Oct.Rules.IsClaimable.name=\\untranslated
+Oct.Rules.IsClaimable.name=は受け取り可能アイテム
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.tooltip=True when the Item is Claimable.
 \\
 \\\\
-Oct.Rules.IsClaimable.tooltip=\\untranslated
+Oct.Rules.IsClaimable.tooltip=アイテムが受け取り可能アイテムの場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.name=Is Junk
 \\
 \\\\
-Oct.Rules.IsJunk.name=\\untranslated
+Oct.Rules.IsJunk.name=はジャンク品
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.tooltip=True when the Item is Junk.
 \\
 \\\\
-Oct.Rules.IsJunk.tooltip=\\untranslated
+Oct.Rules.IsJunk.tooltip=アイテムがジャンク品の場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.name=Is Spare Book Set
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.name=\\untranslated
+Oct.Rules.IsSpareBookSet.name=は予備の書籍セット
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.tooltip=True when there are extra Sets of this type (Placed or Crated, not Junk).
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.tooltip=\\untranslated
+Oct.Rules.IsSpareBookSet.tooltip=このタイプのセット（ジャンク品ではなく、配置されたセットか箱詰めされたセット）が余分にある場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.name=Is
 \\
 \\\\
-Oct.Rules.ItemIs.name=\\untranslated
+Oct.Rules.ItemIs.name=は
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.tooltip=True when the Item Type is in the list.
 \\
 \\\\
-Oct.Rules.ItemIs.tooltip=\\untranslated
+Oct.Rules.ItemIs.tooltip=アイテムのタイプがリストにある場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.name=None of
 \\
 \\\\
-Oct.Rules.NoneRule.name=\\untranslated
+Oct.Rules.NoneRule.name=なし：
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.tooltip=True when no child rule is True (True when empty).
 \\
 \\\\
-Oct.Rules.NoneRule.tooltip=\\untranslated
+Oct.Rules.NoneRule.tooltip=子ルールが1つもTrueでない場合、True（空の場合はTrue）。
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.name=Prestige
 \\
 \\\\
-Oct.Rules.Prestige.name=\\untranslated
+Oct.Rules.Prestige.name=名声
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.tooltip=True when Item's Prestige meets the criteria
 \\
 \\\\
-Oct.Rules.Prestige.tooltip=\\untranslated
+Oct.Rules.Prestige.tooltip=アイテムの名声が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.name=Prestige as Percent of Ambition
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.name=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.name=野心に占める名声の割合
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.tooltip=True when the Item's Prestige meets the chosen condition compared to the Mortal's Ambition.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.tooltip=アイテムの名声がモータルの野心と比較して選択された条件を満たしている場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.name=Prestige as Percent of Lodging
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.name=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.name=宿に占める名声の割合
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.tooltip=True when the Item's Prestige meets the chosen condition when compared to the Prestige of a Mortal's Lodging.<br><br>A Prestige as Percent of Lodging of "<= 50%" means that an Item must be less in Prestige than half that of their assigned Lodging.<br><br>Given that there are 8 equipment slots, that ensures that their Lodging will make up at least 20% of their Prestige, satisfying their Lodging Need.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.tooltip=アイテムの名声がモータルの宿の名声と比較して指定された条件を満たしている場合、Trueになる。<br><br>宿に占める名声の割合が「<= 50%」である場合、アイテムの名声はその宿に割り当てられた名声の半分以下でなければならない。<br><br>装備のスロットが8つあることを考えると、「宿」が「名声」の少なくとも20%を占めることになり、「宿」の必要性を満たす。
 
 \\\\
 \\
 \\	Oct.Rules.Quality.name=Quality
 \\
 \\\\
-Oct.Rules.Quality.name=\\untranslated
+Oct.Rules.Quality.name=品質
 
 \\\\
 \\
 \\	Oct.Rules.Quality.tooltip=True when Item Quality meets the criteria.
 \\
 \\\\
-Oct.Rules.Quality.tooltip=\\untranslated
+Oct.Rules.Quality.tooltip=アイテムの品質が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.name=Qty
 \\
 \\\\
-Oct.Rules.Quantity.name=\\untranslated
+Oct.Rules.Quantity.name=個数
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.tooltip=True when Qty of the Item meets the criteria.
 \\
 \\\\
-Oct.Rules.Quantity.tooltip=\\untranslated
+Oct.Rules.Quantity.tooltip=アイテムの個数が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.name=Rarity
 \\
 \\\\
-Oct.Rules.Rarity.name=\\untranslated
+Oct.Rules.Rarity.name=希少度
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.tooltip=True when Item Rarity meets the criteria.
 \\
 \\\\
-Oct.Rules.Rarity.tooltip=\\untranslated
+Oct.Rules.Rarity.tooltip=アイテムの希少度が条件を満たす場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.name=Satisfies a Want
 \\
 \\\\
-Oct.Rules.SatisfiesWant.name=\\untranslated
+Oct.Rules.SatisfiesWant.name=は欲望を満たす
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.tooltip=True when the Item's Prestige satisfies a Want but doesn't exceed it by more than limit.
 \\
 \\\\
-Oct.Rules.SatisfiesWant.tooltip=\\untranslated
+Oct.Rules.SatisfiesWant.tooltip=アイテムの名声が要望を満たすが、制限を超えない場合、True。
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.name=Timeframe
 \\
 \\\\
-Oct.Rules.Timeframe.name=\\untranslated
+Oct.Rules.Timeframe.name=タイムフレーム
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.tooltip=True between the hours of From and To.
 \\
 \\\\
-Oct.Rules.Timeframe.tooltip=\\untranslated
+Oct.Rules.Timeframe.tooltip=開始と終了の時間の間はTrue。
 
 \\\\
 \\
 \\	Oct.Rules.Value.name=Value
 \\
 \\\\
-Oct.Rules.Value.name=\\untranslated
+Oct.Rules.Value.name=価値
 
 \\\\
 \\
 \\	Oct.Rules.Value.tooltip=True when Item Value meets the criteria.
 \\
 \\\\
-Oct.Rules.Value.tooltip=\\untranslated
+Oct.Rules.Value.tooltip=アイテムの価値が条件を満たす場合、True。
 
 \\\\
 \\
@@ -63617,7 +63617,7 @@ Oct.Settings.Global.Controls.Camera.Move.Right.name=右
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=端のスクロール
 
 \\\\
 \\
@@ -63638,14 +63638,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=[マウス中央]長押�
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=反転ピッチ
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=反転ピッチ（コントロール）
 
 \\\\
 \\
