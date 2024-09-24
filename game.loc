@@ -12531,7 +12531,7 @@ Oct.Code.Command.Blocked=不可
 \\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 \\
 \\\\
-Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=まとめ\\autotranslated
 
 \\\\
 \\
@@ -22605,21 +22605,21 @@ Oct.Code.Report.Header=問題を報告
 \\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Summary=\\untranslated
+Oct.Code.Report.Summary=概要\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact=Contact Info
 \\
 \\\\
-Oct.Code.Report.Contact=\\untranslated
+Oct.Code.Report.Contact=連絡先情報\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 \\
 \\\\
-Oct.Code.Report.Contact.Tooltip=\\untranslated
+Oct.Code.Report.Contact.Tooltip=連絡方法は?\n\nメール、Discord、Steam ID が機能します - 種類が不明な場合は指定してください。\n\n便宜上自動的に保存されます。\\autotranslated
 
 \\\\
 \\
