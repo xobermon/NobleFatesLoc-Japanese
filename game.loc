@@ -6224,7 +6224,7 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=男性4
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=男性・なし
 
 \\\\
 \\
@@ -6385,7 +6385,7 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=女性3
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=女性・なし
 
 \\\\
 \\
@@ -7519,28 +7519,28 @@ Oct.Code.Abilities.ChooseTarget={ability}の目標を選択
 \\	Oct.Code.Adventure.Abandon.Header=Abandon?
 \\
 \\\\
-Oct.Code.Adventure.Abandon.Header=\\untranslated
+Oct.Code.Adventure.Abandon.Header=放棄しますか？
 
 \\\\
 \\
 \\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
 \\
 \\\\
-Oct.Code.Adventure.Abandon.Details=\\untranslated
+Oct.Code.Adventure.Abandon.Details=パーティーを放棄しますか？
 
 \\\\
 \\
 \\	Oct.Code.Adventure.Retreat.Header=Retreat?
 \\
 \\\\
-Oct.Code.Adventure.Retreat.Header=\\untranslated
+Oct.Code.Adventure.Retreat.Header=撤退しますか？
 
 \\\\
 \\
 \\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
 \\
 \\\\
-Oct.Code.Adventure.Reatreat.Details=\\untranslated
+Oct.Code.Adventure.Reatreat.Details=困っている人々を見捨てて帰還しますか？
 
 \\\\
 \\
@@ -9297,14 +9297,14 @@ Oct.Code.Characters.StatModifiers.Inspired=触発
 \\	Oct.Code.Characters.SelectAll=Select All
 \\
 \\\\
-Oct.Code.Characters.SelectAll=\\untranslated
+Oct.Code.Characters.SelectAll=全て選択
 
 \\\\
 \\
 \\	Oct.Code.Characters.Leave=Leave
 \\
 \\\\
-Oct.Code.Characters.Leave=\\untranslated
+Oct.Code.Characters.Leave=出発
 
 \\\\
 \\
@@ -9360,7 +9360,7 @@ Oct.Code.Characters.Commands.Collect={items}を回収
 \\	Oct.Code.Characters.Status.GettingHelp=Getting Help
 \\
 \\\\
-Oct.Code.Characters.Status.GettingHelp=\\untranslated
+Oct.Code.Characters.Status.GettingHelp=援助要請
 
 \\\\
 \\
@@ -15573,7 +15573,7 @@ Oct.Code.Foliage.Burned=焼けた
 \\	Oct.Code.Foliage.Canopy=Canopy
 \\
 \\\\
-Oct.Code.Foliage.Canopy=\\untranslated
+Oct.Code.Foliage.Canopy=林冠
 
 \\\\
 \\
@@ -23970,28 +23970,28 @@ Oct.Code.Tools.Stockpiles=貯蔵所
 \\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Tools.Belongings=\\untranslated
+Oct.Code.Tools.Belongings=所有物
 
 \\\\
 \\
 \\	Oct.Code.Tools.Schedule=Schedule
 \\
 \\\\
-Oct.Code.Tools.Schedule=\\untranslated
+Oct.Code.Tools.Schedule=予定
 
 \\\\
 \\
 \\	Oct.Code.Tools.Jobs=Jobs
 \\
 \\\\
-Oct.Code.Tools.Jobs=\\untranslated
+Oct.Code.Tools.Jobs=職務
 
 \\\\
 \\
 \\	Oct.Code.Tools.Food=Food
 \\
 \\\\
-Oct.Code.Tools.Food=\\untranslated
+Oct.Code.Tools.Food=食べ物
 
 \\\\
 \\
@@ -24005,14 +24005,14 @@ Oct.Code.Tools.World=ワールド
 \\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Petitions=\\untranslated
+Oct.Code.Tools.Petitions=嘆願
 
 \\\\
 \\
 \\	Oct.Code.Tools.Beliefs=Beliefs
 \\
 \\\\
-Oct.Code.Tools.Beliefs=\\untranslated
+Oct.Code.Tools.Beliefs=信条
 
 \\\\
 \\
@@ -24054,7 +24054,7 @@ Oct.Code.Tools.Bulk.Multiple.Controls=[左クリック]長押し + ドラッグ:
 \\	Oct.Code.Tools.Learning=Learning
 \\
 \\\\
-Oct.Code.Tools.Learning=\\untranslated
+Oct.Code.Tools.Learning=習得
 
 \\\\
 \\
@@ -24404,7 +24404,7 @@ Oct.Code.Visibility.Stockpiles=貯蔵所
 \\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=\\untranslated
+Oct.Code.Visibility.Characters.AbilityTriggers=アビリティトリガー
 
 \\\\
 \\
@@ -24446,70 +24446,70 @@ Oct.Code.Visibility.Characters.Caps=キャップ
 \\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
 \\
 \\\\
-Oct.Code.Visibility.Items.LockedRecipes=\\untranslated
+Oct.Code.Visibility.Items.LockedRecipes=ロック中のレシピ
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Items.Stats=Item Stats
 \\
 \\\\
-Oct.Code.Visibility.Items.Stats=\\untranslated
+Oct.Code.Visibility.Items.Stats=アイテムのステータス
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Paths=Paths
 \\
 \\\\
-Oct.Code.Visibility.Paths=\\untranslated
+Oct.Code.Visibility.Paths=小道
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Props.Roofs=Roofs
 \\
 \\\\
-Oct.Code.Visibility.Props.Roofs=\\untranslated
+Oct.Code.Visibility.Props.Roofs=屋根
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
 \\
 \\\\
-Oct.Code.Visibility.Props.RulerRoofs=\\untranslated
+Oct.Code.Visibility.Props.RulerRoofs=屋根(君主モード)
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Props.Blueprints=Blueprints
 \\
 \\\\
-Oct.Code.Visibility.Props.Blueprints=\\untranslated
+Oct.Code.Visibility.Props.Blueprints=設計図
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
 \\
 \\\\
-Oct.Code.Visibility.Props.CombatBlueprints=\\untranslated
+Oct.Code.Visibility.Props.CombatBlueprints=設計図(戦闘)
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Temperature=Temperature
 \\
 \\\\
-Oct.Code.Visibility.Temperature=\\untranslated
+Oct.Code.Visibility.Temperature=温度
 
 \\\\
 \\
 \\	Oct.Code.Visibility.UI=UI
 \\
 \\\\
-Oct.Code.Visibility.UI=\\untranslated
+Oct.Code.Visibility.UI=UI
 
 \\\\
 \\
 \\	Oct.Code.Visibility.InWorldUI=In World UI
 \\
 \\\\
-Oct.Code.Visibility.InWorldUI=\\untranslated
+Oct.Code.Visibility.InWorldUI=ワールド内UI
 
 \\\\
 \\
@@ -33068,21 +33068,21 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=ムーンシャイン
 \\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
 \\
 \\\\
-Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+Oct.Items.Categories.Gear.Outer.Cloaks.name=マント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Categories.Gear.Outer.name=Outer
 \\
 \\\\
-Oct.Items.Categories.Gear.Outer.name=\\untranslated
+Oct.Items.Categories.Gear.Outer.name=全身
 
 \\\\
 \\
 \\	Oct.Items.Categories.Resources.Leather.name=Leather
 \\
 \\\\
-Oct.Items.Categories.Resources.Leather.name=\\untranslated
+Oct.Items.Categories.Resources.Leather.name=革
 
 \\\\
 \\
@@ -33460,28 +33460,28 @@ Oct.Items.Categories.Props.Other.name=その他
 \\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.name=マーシャルマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.pluralName=武道のマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.name=ロイヤルマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.pluralName=王室のマント\\autotranslated
 
 \\\\
 \\
@@ -33530,28 +33530,28 @@ Oct.Items.Clothing.Hood.Cloth.name=布のフード
 \\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.name=かわいそうなマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.pluralName=かわいそうなマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.name=控えめなマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.pluralName=控えめなマント\\autotranslated
 
 \\\\
 \\
@@ -34750,21 +34750,21 @@ Oct.Items.Stackable.Wine.name=ワイン
 \\	Oct.Items.Stackable.Skins.Hide.name=Hide
 \\
 \\\\
-Oct.Items.Stackable.Skins.Hide.name=\\untranslated
+Oct.Items.Stackable.Skins.Hide.name=厚皮
 
 \\\\
 \\
 \\	Oct.Items.Stackable.Skins.Leather.name=Leather
 \\
 \\\\
-Oct.Items.Stackable.Skins.Leather.name=\\untranslated
+Oct.Items.Stackable.Skins.Leather.name=革
 
 \\\\
 \\
 \\	Oct.Items.Stackable.Gold.name=Gold
 \\
 \\\\
-Oct.Items.Stackable.Gold.name=\\untranslated
+Oct.Items.Stackable.Gold.name=金
 
 \\\\
 \\
@@ -60948,28 +60948,28 @@ Oct.Research.Clothing.Costumes.Veil.name=ベール
 \\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Research.Clothing.Cloak.Poor.name=かわいそうなマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Research.Clothing.Cloak.Modest.name=控えめなマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Research.Clothing.Cloak.Martial.name=武道のマント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Research.Clothing.Cloak.Royal.name=王室のマント\\autotranslated
 
 \\\\
 \\
