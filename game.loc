@@ -3,7 +3,7 @@
 \\	Ocde.Code.Command.Score.PersonalCommand.Definition=This Command belongs to this Mortal.
 \\
 \\\\
-Ocde.Code.Command.Score.PersonalCommand.Definition=\\untranslated
+Ocde.Code.Command.Score.PersonalCommand.Definition=このコマンドはこの人間に属します。\\autotranslated
 
 \\\\
 \\
@@ -8527,21 +8527,21 @@ Oct.Code.Building.Type.None=なし
 \\	Oct.Code.Catapult.Fire=Fire
 \\
 \\\\
-Oct.Code.Catapult.Fire=\\untranslated
+Oct.Code.Catapult.Fire=発射
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing=Firing {prop}
 \\
 \\\\
-Oct.Code.Catapult.Firing=\\untranslated
+Oct.Code.Catapult.Firing={prop}を発射中
 
 \\\\
 \\
 \\	Oct.Code.Catapult.Firing.At=Firing {prop} at {target}
 \\
 \\\\
-Oct.Code.Catapult.Firing.At=\\untranslated
+Oct.Code.Catapult.Firing.At={prop}を{target}に発射中
 
 \\\\
 \\
@@ -8604,35 +8604,35 @@ Oct.Code.Character.Age.Adult.Old=高齢者
 \\	Oct.Code.Character.Preset.Overwrite=Overwrite?
 \\
 \\\\
-Oct.Code.Character.Preset.Overwrite=\\untranslated
+Oct.Code.Character.Preset.Overwrite=上書きしますか?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.AlreadyExists=A Preset with this Name already Exists.<br><br>Overwrite?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.AlreadyExists=\\untranslated
+Oct.Code.Character.Preset.AlreadyExists=この名前のプリセットは既に存在します。<br><br>上書きしますか?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply.header=Apply Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Apply.header=\\untranslated
+Oct.Code.Character.Preset.Apply.header=プリセットを適用しますか?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply=The Preset will overwrite this Mortals details.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.Apply=\\untranslated
+Oct.Code.Character.Preset.Apply=プリセットにより、このモータルの詳細が上書きされます。<br><br>続行しますか?<br>\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Delete.Header=Delete Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Delete.Header=\\untranslated
+Oct.Code.Character.Preset.Delete.Header=プリセットを削除しますか?\\autotranslated
 
 \\\\
 \\
@@ -9241,7 +9241,7 @@ Oct.Code.Characters.Commands.Tame=調教
 \\	Oct.Code.Characters.Commands.Evangelize=Evangelize
 \\
 \\\\
-Oct.Code.Characters.Commands.Evangelize=\\untranslated
+Oct.Code.Characters.Commands.Evangelize=伝道する\\autotranslated
 
 \\\\
 \\
@@ -9983,7 +9983,7 @@ Oct.Code.Characters.Relationship.Child=子供
 \\	Oct.Code.Characters.Instincts.Controlled=Controlled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Controlled=\\untranslated
+Oct.Code.Characters.Instincts.Controlled=操作中
 
 \\\\
 \\
@@ -10018,28 +10018,28 @@ Oct.Code.Characters.ThirdPerson.Controls.DropAll=全て捨てる
 \\	Oct.Code.Characters.Instincts.Downed.Carried=Carried
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Carried=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Carried=運ばれた\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Downed=Downed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Downed=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Downed=ダウン\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Unconscious=Unconscious
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Unconscious=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Unconscious=無意識\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Tantrum=Throwing a Tantrum
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Tantrum=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Tantrum=癇癪を起こす\\autotranslated
 
 \\\\
 \\
@@ -10053,56 +10053,56 @@ Oct.Code.Characters.Pain.BloodLoss=失血状態
 \\	Oct.Code.Characters.Instincts.Eat=Eat
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat=\\untranslated
+Oct.Code.Characters.Instincts.Eat=食べる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Eating=Eating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Eating=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Eating=食べる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.BeingFed=Being Fed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.BeingFed=\\untranslated
+Oct.Code.Characters.Instincts.Eat.BeingFed=餌を与えられる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry=お腹がすいた\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=No Food Available
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=食べ物はありません\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.NotHungry=Not Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.NotHungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.NotHungry=空腹ではない\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote=Emote
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote=\\untranslated
+Oct.Code.Characters.Instincts.Emote=エモート\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote.Dancing=Dancing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote.Dancing=\\untranslated
+Oct.Code.Characters.Instincts.Emote.Dancing=ダンシング\\autotranslated
 
 \\\\
 \\
@@ -10130,14 +10130,14 @@ Oct.Code.Characters.Toasts.Escape.Thwarted={character}の逃亡を阻止した�
 \\	Oct.Code.Characters.Instincts.Escape=Escape
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape=\\untranslated
+Oct.Code.Characters.Instincts.Escape=逃げる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Escape.Escaping=Escaping
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape.Escaping=\\untranslated
+Oct.Code.Characters.Instincts.Escape.Escaping=逃亡中
 
 \\\\
 \\
@@ -10179,28 +10179,28 @@ Oct.Code.Characters.State.Escaping=逃亡中
 \\	Oct.Code.Characters.Instincts.Fight=Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight=\\untranslated
+Oct.Code.Characters.Instincts.Fight=戦い\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Fighting=Fighting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Fighting=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Fighting=ファインティング\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.WantsToFIght=Wants to Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.WantsToFIght=\\untranslated
+Oct.Code.Characters.Instincts.Fight.WantsToFIght=戦いたい\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Enlisted=徴兵されている
 
 \\\\
 \\
@@ -10214,28 +10214,28 @@ Oct.Code.Characters.State.Fighting=戦闘中
 \\	Oct.Code.Characters.Instincts.Flee=Flee
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee=\\untranslated
+Oct.Code.Characters.Instincts.Flee=逃げる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Enlisted=徴兵されている
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.UnderFire=Under Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.UnderFire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.UnderFire=攻撃を受ける\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Fire=Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Fire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Fire=火\\autotranslated
 
 \\\\
 \\
@@ -10249,21 +10249,21 @@ Oct.Code.Characters.State.Fleeing=逃走中
 \\	Oct.Code.Characters.Instincts.Graze=Graze
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze=\\untranslated
+Oct.Code.Characters.Instincts.Graze=グレイズ\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.Grazing=Grazing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.Grazing=\\untranslated
+Oct.Code.Characters.Instincts.Graze.Grazing=放牧\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.NoFoodNearby=No Food Nearby
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.NoFoodNearby=\\untranslated
+Oct.Code.Characters.Instincts.Graze.NoFoodNearby=近くに食べ物はありません\\autotranslated
 
 \\\\
 \\
@@ -10277,28 +10277,28 @@ Oct.Code.Characters.State.Grazing=草を食べている
 \\	Oct.Code.Characters.Instincts.Herd=Herd
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd=\\untranslated
+Oct.Code.Characters.Instincts.Herd=群れ\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Herd.Hungry=お腹がすいた\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.TargetTooFar=Target Too Far
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.TargetTooFar=\\untranslated
+Oct.Code.Characters.Instincts.Herd.TargetTooFar=ターゲットが遠すぎる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.NewTarget=New Target
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.NewTarget=\\untranslated
+Oct.Code.Characters.Instincts.Herd.NewTarget=新たなターゲット\\autotranslated
 
 \\\\
 \\
@@ -10312,14 +10312,14 @@ Oct.Code.Characters.State.FollowingHerd=群れに続いている
 \\	Oct.Code.Characters.Instincts.Hunt=Hunt
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt=\\untranslated
+Oct.Code.Characters.Instincts.Hunt=ハント\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Hunt.Hunting=Hunting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt.Hunting=\\untranslated
+Oct.Code.Characters.Instincts.Hunt.Hunting=狩猟\\autotranslated
 
 \\\\
 \\
@@ -10333,98 +10333,98 @@ Oct.Code.Characters.State.Hunting=狩猟中
 \\	Oct.Code.Characters.Instincts.Relax=Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax=\\untranslated
+Oct.Code.Characters.Instincts.Relax=リラックス\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Celebrating=Celebrating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Celebrating=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Celebrating=祝う\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Scheduled=予定\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Disregarding Schedule
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=\\untranslated
+Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=スケジュールを無視する\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Yodeling=Yodeling
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Yodeling=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Yodeling=ヨーデル\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Sit=Sitting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Sit=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Sit=座っている\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.CanRelax=Can Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.CanRelax=\\untranslated
+Oct.Code.Characters.Instincts.Relax.CanRelax=リラックスできる\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest=Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest=\\untranslated
+Oct.Code.Characters.Instincts.Rest=休む\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.UntilHealed=Resting Until Healed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.UntilHealed=\\untranslated
+Oct.Code.Characters.Instincts.Rest.UntilHealed=治るまで休む\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Ordered=注文済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Resting=Resting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Resting=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Resting=休憩中\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.NeedRest=Need Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.NeedRest=\\untranslated
+Oct.Code.Characters.Instincts.Rest.NeedRest=休息が必要\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Scheduled=予定\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.InPain=In Pain
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.InPain=\\untranslated
+Oct.Code.Characters.Instincts.Rest.InPain=痛みの中で\\autotranslated
 
 \\\\
 \\
@@ -10445,84 +10445,84 @@ Oct.Code.Characters.State.Sleepign=睡眠中
 \\	Oct.Code.Characters.Instincts.Socialize=Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize=\\untranslated
+Oct.Code.Characters.Instincts.Socialize=社交する\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.NeedsTo=Need to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.NeedsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.NeedsTo=社交の必要性\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.WantsTo=Want to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.WantsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.WantsTo=交流したい\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work=\\untranslated
+Oct.Code.Characters.Instincts.Work=仕事\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Work.Ordered=注文済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.FightingFire=Fighting Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.FightingFire=\\untranslated
+Oct.Code.Characters.Instincts.Work.FightingFire=消火活動\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.CriticalWork=Critical Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.CriticalWork=\\untranslated
+Oct.Code.Characters.Instincts.Work.CriticalWork=重要な仕事\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Work.Scheduled=予定\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Working=Working
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Working=\\untranslated
+Oct.Code.Characters.Instincts.Work.Working=働く\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.ToDo=Have Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.ToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.ToDo=やるべき仕事がある\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.TakingABreak=Taking a Break
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.TakingABreak=\\untranslated
+Oct.Code.Characters.Instincts.Work.TakingABreak=休憩を取る\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.NoWorkToDo=No Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.NoWorkToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.NoWorkToDo=やるべき仕事がない\\autotranslated
 
 \\\\
 \\
@@ -12013,7 +12013,7 @@ Oct.Code.Characters.Sheet.Tabs.Jobs=職務
 \\	Oct.Code.Characters.Sheet.Tabs.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Work=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Work=仕事\\autotranslated
 
 \\\\
 \\
@@ -12195,21 +12195,21 @@ Oct.Code.Characters.Rename.Kingdom.Lands=王国の領土
 \\	Oct.Code.Characters.Sheet.Work.Title=Work Queue
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Title=\\untranslated
+Oct.Code.Characters.Sheet.Work.Title=作業キュー\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip=The Work Queue lists the Commands this Mortal considered when last deciding what to do.\n\nCommands are listed in the order the Mortal will do them - hover a Command to access the list of reasons why.\n\nThe time remaining until their next evaluation is at the bottom.
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip=作業キューには、このモータルが最後に何をするかを決めるときに検討したコマンドがリストされます。\n\nコマンドは、モータルが実行する順序でリストされます。コマンドにマウスを合わせると、理由のリストにアクセスできます。\n\n次の評価までの残り時間は一番下に表示されます。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Glossary
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=用語集\\autotranslated
 
 \\\\
 \\
@@ -12230,14 +12230,14 @@ Oct.Code.Characters.Sheet.Rename.Tooltip=名前を編集
 \\	Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit
 \\
 \\\\
-Oct.Code.Characters.Sheet.Edit.Character.Tooltip=外観を編集
+Oct.Code.Characters.Sheet.Edit.Character.Tooltip=編集\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Instincts=Instincts
 \\
 \\\\
-Oct.Code.Characters.Sheet.Instincts=\\untranslated
+Oct.Code.Characters.Sheet.Instincts=本能\\autotranslated
 
 \\\\
 \\
@@ -12629,28 +12629,28 @@ Oct.Code.Characters.Editor.Tabs.Appearance=外観
 \\	Oct.Code.Characters.Preset.Save.Title=Save Preset?
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Title=\\untranslated
+Oct.Code.Characters.Preset.Save.Title=プリセットを保存しますか?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save.Name=Name
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Name=\\untranslated
+Oct.Code.Characters.Preset.Save.Name=名前\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Preset.Save=\\untranslated
+Oct.Code.Characters.Preset.Save=保存\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Apply.Header=Apply a Preset
 \\
 \\\\
-Oct.Code.Characters.Preset.Apply.Header=\\untranslated
+Oct.Code.Characters.Preset.Apply.Header=プリセットを適用する\\autotranslated
 
 \\\\
 \\
@@ -12664,21 +12664,21 @@ Oct.Code.Characters.Editor.Header={character.short}を編集
 \\	Oct.Code.Characters.Presets=Presets
 \\
 \\\\
-Oct.Code.Characters.Presets=\\untranslated
+Oct.Code.Characters.Presets=プリセット\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Presets.Save=\\untranslated
+Oct.Code.Characters.Presets.Save=保存\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Apply=Apply
 \\
 \\\\
-Oct.Code.Characters.Presets.Apply=\\untranslated
+Oct.Code.Characters.Presets.Apply=適用する\\autotranslated
 
 \\\\
 \\
@@ -13322,7 +13322,7 @@ Oct.Code.Command.Blocked.PrivatelyOwned=個人が所有中
 \\	Oct.Code.Command.Blocked.TargetBusy=Target is Busy
 \\
 \\\\
-Oct.Code.Command.Blocked.TargetBusy=\\untranslated
+Oct.Code.Command.Blocked.TargetBusy=ターゲットはビジーです\\autotranslated
 
 \\\\
 \\
@@ -13343,14 +13343,14 @@ Oct.Code.Command.Micro={target}を{command}
 \\	Oct.Code.Command.Blocked.NothingToShare=Nothing to Share
 \\
 \\\\
-Oct.Code.Command.Blocked.NothingToShare=\\untranslated
+Oct.Code.Command.Blocked.NothingToShare=共有するものはありません\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Blocked.WontListen={character} won't listen
 \\
 \\\\
-Oct.Code.Command.Blocked.WontListen=\\untranslated
+Oct.Code.Command.Blocked.WontListen={character}は聞かない\\autotranslated
 
 \\\\
 \\
@@ -13399,63 +13399,63 @@ Oct.Code.Command.Blocked.NeedProp={prop}が必要
 \\	Oct.Code.Command.Score.PeronalCommand=Personal Command
 \\
 \\\\
-Oct.Code.Command.Score.PeronalCommand=\\untranslated
+Oct.Code.Command.Score.PeronalCommand=個人指揮\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority=Job Priority
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority=\\untranslated
+Oct.Code.Command.Score.JobPriority=仕事の優先順位\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority.Definition=This Command's Job's Priority for this Mortal from the Jobs Screen.
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority.Definition=\\untranslated
+Oct.Code.Command.Score.JobPriority.Definition=ジョブ画面から、このモータルに対するこのコマンドのジョブの優先度を表示します。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed=Command Rushed
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed=\\untranslated
+Oct.Code.Command.Score.CommandRushed=コマンドが急いだ\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed.Definition=This Command has been Rushed.
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed.Definition=\\untranslated
+Oct.Code.Command.Score.CommandRushed.Definition=このコマンドは急いで実行されました。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence=Job Sequence
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence=\\untranslated
+Oct.Code.Command.Score.JobSequence=ジョブシーケンス\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence.Definition=This Command's Sequence within it's Job - see the Job on the Jobs Screen for the full list.
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence.Definition=\\untranslated
+Oct.Code.Command.Score.JobSequence.Definition=ジョブ内でのこのコマンドのシーケンス - 完全なリストについてはジョブ画面のジョブを参照してください\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase=Help Setup Base
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase=ヘルプセットアップベース\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase.Definition=This Command is important to setting up the initial base, so the Mortal will help even if not assigned to its Job.
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase.Definition=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase.Definition=このコマンドは初期基地のセットアップに重要なので、ジョブに割り当てられていなくてもモータルが手伝ってくれます。\\autotranslated
 
 \\\\
 \\
@@ -13546,14 +13546,14 @@ Oct.Code.Commands.CaptureCharacter.Status={character}を捕獲中
 \\	Oct.Code.Commands.Heuristics.NoBabiesNearby=No Babies Nearby
 \\
 \\\\
-Oct.Code.Commands.Heuristics.NoBabiesNearby=\\untranslated
+Oct.Code.Commands.Heuristics.NoBabiesNearby=近くに赤ちゃんはいません\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.Outdoors=Outdoors
 \\
 \\\\
-Oct.Code.Commands.Heuristics.Outdoors=\\untranslated
+Oct.Code.Commands.Heuristics.Outdoors=屋外\\autotranslated
 
 \\\\
 \\
@@ -13686,14 +13686,14 @@ Oct.Code.Commands.Blocked.Characters.TreatedBy={character}が治療済
 \\	Oct.Code.Commands.Heuristic.Distance=Distance
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Distance=\\untranslated
+Oct.Code.Commands.Heuristic.Distance=距離\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Age=Age
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Age=\\untranslated
+Oct.Code.Commands.Heuristic.Age=年\\autotranslated
 
 \\\\
 \\
@@ -13728,7 +13728,7 @@ Oct.Code.Commands.ConstructProp.Status={prop}を建設中
 \\	Oct.Code.Commands.Heuristics.AwaitingResources=Awaiting Resources
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AwaitingResources=\\untranslated
+Oct.Code.Commands.Heuristics.AwaitingResources=リソース待ち\\autotranslated
 
 \\\\
 \\
@@ -13840,7 +13840,7 @@ Oct.Code.Commands.DeliverItems.Status={items}を配達中
 \\	Oct.Code.Commands.Heuristics.CharacterAbove=Character Above
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterAbove=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterAbove=上記の文字\\autotranslated
 
 \\\\
 \\
@@ -13910,21 +13910,21 @@ Oct.Code.Commands.Equip.Blocked.Unowned=未所有
 \\	Oct.Code.Commands.Evangelize.Status=Evangelizing {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Status=\\untranslated
+Oct.Code.Commands.Evangelize.Status={character}への伝道の統治者\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.Verb=Evangelize {ruler.con(myself,you,{ruler})} To
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Verb=\\untranslated
+Oct.Code.Commands.Evangelize.Verb=統治者に福音を伝える\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.CommandVerbNoun=Evangelize {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Evangelize.CommandVerbNoun=統治者を{character}に伝道する\\autotranslated
 
 \\\\
 \\
@@ -13938,14 +13938,14 @@ Oct.Code.Commands.Blocked.Character.Downed={character}は倒れている
 \\	Oct.Code.Commands.Blocked.Character.IsEnemy={character} is an Enemy
 \\
 \\\\
-Oct.Code.Commands.Blocked.Character.IsEnemy=\\untranslated
+Oct.Code.Commands.Blocked.Character.IsEnemy={character}は敵です\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.CharacterFoodNeed=Character Food Need
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterFoodNeed=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterFoodNeed=キャラクターの食事ニーズ\\autotranslated
 
 \\\\
 \\
@@ -14211,14 +14211,14 @@ Oct.Code.Commands.Influence.Subject={subject}を布教。布教先:
 \\	Oct.Code.Commands.Influence.CommandVerbNoun=Preach to {character} about {subject}
 \\
 \\\\
-Oct.Code.Commands.Influence.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Influence.CommandVerbNoun={subject}について{character}に説教する\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Influence.Importance=Importance
 \\
 \\\\
-Oct.Code.Commands.Influence.Importance=\\untranslated
+Oct.Code.Commands.Influence.Importance=重要性\\autotranslated
 
 \\\\
 \\
@@ -14295,7 +14295,7 @@ Oct.Code.Commands.Blocked.NoMilk=ミルクがない
 \\	Oct.Code.Commands.Blocked.LowMilk=Low Milk
 \\
 \\\\
-Oct.Code.Commands.Blocked.LowMilk=\\untranslated
+Oct.Code.Commands.Blocked.LowMilk=低ミルク\\autotranslated
 
 \\\\
 \\
@@ -14358,7 +14358,7 @@ Oct.Code.Commands.Blocked.ProductionSatisfied=生産量は足りている
 \\	Oct.Code.Commands.Blocked.Waiting=Waiting
 \\
 \\\\
-Oct.Code.Commands.Blocked.Waiting=\\untranslated
+Oct.Code.Commands.Blocked.Waiting=待っている\\autotranslated
 
 \\\\
 \\
@@ -14638,7 +14638,7 @@ Oct.Code.Commands.Blocked.Bed.Unreachable=ベッドにアクセス不可
 \\	Oct.Code.Commands.Heuristics.AlreadyStored=Already Stored
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AlreadyStored=\\untranslated
+Oct.Code.Commands.Heuristics.AlreadyStored=すでに保存済み\\autotranslated
 
 \\\\
 \\
@@ -14701,112 +14701,112 @@ Oct.Code.Commands.Clean=清掃
 \\	Oct.Code.Commands.Score.CommandPriority=Command Priority
 \\
 \\\\
-Oct.Code.Commands.Score.CommandPriority=\\untranslated
+Oct.Code.Commands.Score.CommandPriority=コマンド優先度\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotAssigned=Not Assigned
 \\
 \\\\
-Oct.Code.Commands.Score.NotAssigned=\\untranslated
+Oct.Code.Commands.Score.NotAssigned=割り当てられていない\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Complete=Complete
 \\
 \\\\
-Oct.Code.Commands.Score.Complete=\\untranslated
+Oct.Code.Commands.Score.Complete=完了\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical=Critical
 \\
 \\\\
-Oct.Code.Commands.Score.Critical=\\untranslated
+Oct.Code.Commands.Score.Critical=致命的\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical.Definition=This Command is Critical to Survival.
 \\
 \\\\
-Oct.Code.Commands.Score.Critical.Definition=\\untranslated
+Oct.Code.Commands.Score.Critical.Definition=このコマンドは生存に不可欠です。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work=Work
 \\
 \\\\
-Oct.Code.Commands.Score.Work=\\untranslated
+Oct.Code.Commands.Score.Work=仕事\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work.Definition=This Command is included in one of the Mortal's Jobs.
 \\
 \\\\
-Oct.Code.Commands.Score.Work.Definition=\\untranslated
+Oct.Code.Commands.Score.Work.Definition=このコマンドは、モータルのジョブの 1 つに含まれています。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized=Job Prioritized
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized=仕事の優先順位\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized.Definition=This Command's Job has been Prioritized from the top of the Jobs Screen.
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized.Definition=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized.Definition=このコマンドのジョブは、ジョブ画面の上部から優先されています。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst=Setup Base first
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst=まずベースをセットアップする\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst.Definition=This Command is less important than setting up the initial base.
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst.Definition=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst.Definition=このコマンドは、初期ベースの設定ほど重要ではありません。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.OutOfTime=Job Time Limit Reached
 \\
 \\\\
-Oct.Code.Commands.Deltas.OutOfTime=\\untranslated
+Oct.Code.Commands.Deltas.OutOfTime=ジョブの時間制限に達しました\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotIncludedInScheme=Not Included in Scheme
 \\
 \\\\
-Oct.Code.Commands.Score.NotIncludedInScheme=\\untranslated
+Oct.Code.Commands.Score.NotIncludedInScheme=スキームに含まれない\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.HelpOut=Help out
 \\
 \\\\
-Oct.Code.Commands.Score.HelpOut=\\untranslated
+Oct.Code.Commands.Score.HelpOut=手伝う\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.InBattle=Target in Battle
 \\
 \\\\
-Oct.Code.Commands.Deltas.InBattle=\\untranslated
+Oct.Code.Commands.Deltas.InBattle=戦闘中のターゲット\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Blocked=Blocked
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Blocked=\\untranslated
+Oct.Code.Commands.Heuristic.Blocked=ブロックされました\\autotranslated
 
 \\\\
 \\
@@ -14820,7 +14820,7 @@ Oct.Code.Commands.Items.Move=移動
 \\	Oct.Code.Commands.items.AssignedStorage=Assigned Storage
 \\
 \\\\
-Oct.Code.Commands.items.AssignedStorage=\\untranslated
+Oct.Code.Commands.items.AssignedStorage=割り当てられたストレージ\\autotranslated
 
 \\\\
 \\
@@ -15044,63 +15044,63 @@ Oct.Code.Commands.Gather=収集
 \\	Oct.Code.Commands.Work.Modifiers=Modifiers
 \\
 \\\\
-Oct.Code.Commands.Work.Modifiers=\\untranslated
+Oct.Code.Commands.Work.Modifiers=修飾子\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Assigned=Assigned
 \\
 \\\\
-Oct.Code.Commands.Assigned=\\untranslated
+Oct.Code.Commands.Assigned=割り当て済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Queued=Queued
 \\
 \\\\
-Oct.Code.Commands.Queued=\\untranslated
+Oct.Code.Commands.Queued=キューに登録\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.CharacterAssigned={character} Assigned
 \\
 \\\\
-Oct.Code.Commands.CharacterAssigned=\\untranslated
+Oct.Code.Commands.CharacterAssigned={character} 割り当て済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.QueuedFor=Queued for {character}
 \\
 \\\\
-Oct.Code.Commands.QueuedFor=\\untranslated
+Oct.Code.Commands.QueuedFor={character}のキューに追加されました\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.WasBlocked=Was Blocked
 \\
 \\\\
-Oct.Code.Commands.WasBlocked=\\untranslated
+Oct.Code.Commands.WasBlocked=ブロックされました\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Unassigned=Unassigned
 \\
 \\\\
-Oct.Code.Commands.Unassigned=\\untranslated
+Oct.Code.Commands.Unassigned=未割り当て\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Score=Score
 \\
 \\\\
-Oct.Code.Commands.Work.Score=\\untranslated
+Oct.Code.Commands.Work.Score=スコア\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Reasons=Reasons
 \\
 \\\\
-Oct.Code.Commands.Work.Reasons=\\untranslated
+Oct.Code.Commands.Work.Reasons=理由\\autotranslated
 
 \\\\
 \\
@@ -15310,7 +15310,7 @@ Oct.Code.Common.Decays=劣化
 \\	Oct.Code.Common.Delete=Delete
 \\
 \\\\
-Oct.Code.Common.Delete=\\untranslated
+Oct.Code.Common.Delete=消去\\autotranslated
 
 \\\\
 \\
@@ -16091,7 +16091,7 @@ Oct.Code.Concessions.SendItems.Available=可能
 \\	Oct.Code.Concessions.SendItems.Inconvenience=Inconvenience
 \\
 \\\\
-Oct.Code.Concessions.SendItems.Inconvenience=\\untranslated
+Oct.Code.Concessions.SendItems.Inconvenience=不便\\autotranslated
 
 \\\\
 \\
@@ -16686,7 +16686,7 @@ Oct.Code.Embark.Bringing=持ち帰る物
 \\	Oct.Code.Embark.NOTE=NOTE
 \\
 \\\\
-Oct.Code.Embark.NOTE=\\untranslated
+Oct.Code.Embark.NOTE=注意
 
 \\\\
 \\
@@ -22199,7 +22199,7 @@ Oct.Code.Items.Stats.Capacity=容量
 \\	Oct.Code.Job.Assigned=Assigned {job}
 \\
 \\\\
-Oct.Code.Job.Assigned=\\untranslated
+Oct.Code.Job.Assigned=割り当てられた{job1}\\autotranslated
 
 \\\\
 \\
@@ -22430,14 +22430,14 @@ Oct.Code.Kingdom.Member.WantsToLeave={pawn}が抜けたがっている
 \\	Oct.Code.Kingdom.ChooseEmblem=Choose Emblem
 \\
 \\\\
-Oct.Code.Kingdom.ChooseEmblem=\\untranslated
+Oct.Code.Kingdom.ChooseEmblem=エンブレムを選択
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.ChooseColor=Choose Color
 \\
 \\\\
-Oct.Code.Kingdom.ChooseColor=\\untranslated
+Oct.Code.Kingdom.ChooseColor=色を選択
 
 \\\\
 \\
@@ -22621,14 +22621,14 @@ Oct.Code.LoadGame.DeleteConfirmation=ファイルがゴミ箱に移動します�
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Delete Listed?
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation.Header=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation.Header=リストを削除しますか?\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation=The files listed will all be <br><b>PERMANENTLY DELETED</b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation=リストされているファイルはすべて<br><b>完全に削除されます</b>。<br><br>続行しますか?<br>\\autotranslated
 
 \\\\
 \\
@@ -22642,7 +22642,7 @@ Oct.Code.LoadGame.Header=ゲームをロード
 \\	Oct.Code.LoadGame.Filter=Filter
 \\
 \\\\
-Oct.Code.LoadGame.Filter=\\untranslated
+Oct.Code.LoadGame.Filter=フィルター\\autotranslated
 
 \\\\
 \\
@@ -22670,7 +22670,7 @@ Oct.Code.LoadGame.Mods.Match.Caption=一致
 \\	Oct.Code.LoadGame.Delete.Listed=Delete {count} Listed
 \\
 \\\\
-Oct.Code.LoadGame.Delete.Listed=\\untranslated
+Oct.Code.LoadGame.Delete.Listed=リストされている{count}件を削除\\autotranslated
 
 \\\\
 \\
@@ -23188,7 +23188,7 @@ Oct.Code.NewGame.Begin=開始
 \\	Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 \\
 \\\\
-Oct.Code.News.Conquest.Title=\\untranslated
+Oct.Code.News.Conquest.Title=Noble Fates: Conquest
 
 \\\\
 \\
@@ -24998,7 +24998,7 @@ Oct.Code.Save.DiscardProgress=保存されていない進捗状況は失われ�
 \\	Oct.Code.Save.Preset.Delete=The Preset will <br><b>PERMANENTLY DELETED<\b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Save.Preset.Delete=\\untranslated
+Oct.Code.Save.Preset.Delete=プリセットは<br><b>完全に削除されます<\b>。<br><br>続行しますか?<br>\\autotranslated
 
 \\\\
 \\
@@ -25040,21 +25040,21 @@ Oct.Code.Schedule.Header=予定
 \\	Oct.Code.Schedule.Copy=Copy
 \\
 \\\\
-Oct.Code.Schedule.Copy=\\untranslated
+Oct.Code.Schedule.Copy=コピー\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.Paste=Paste
 \\
 \\\\
-Oct.Code.Schedule.Paste=\\untranslated
+Oct.Code.Schedule.Paste=ペースト\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Schedule.ClearAll=Clear All
 \\
 \\\\
-Oct.Code.Schedule.ClearAll=\\untranslated
+Oct.Code.Schedule.ClearAll=すべてクリア\\autotranslated
 
 \\\\
 \\
@@ -25712,42 +25712,42 @@ Oct.Code.Stockpile.Header=貯蔵所
 \\	Oct.Code.Storage.Free=Storage Free
 \\
 \\\\
-Oct.Code.Storage.Free=\\untranslated
+Oct.Code.Storage.Free=ストレージ無料\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots=Slots
 \\
 \\\\
-Oct.Code.Storage.Slots=\\untranslated
+Oct.Code.Storage.Slots=スロット\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Used=Used
 \\
 \\\\
-Oct.Code.Storage.Slots.Used=\\untranslated
+Oct.Code.Storage.Slots.Used=使用済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Reserved=Reserved
 \\
 \\\\
-Oct.Code.Storage.Slots.Reserved=\\untranslated
+Oct.Code.Storage.Slots.Reserved=予約済み\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Remaining=Remaining
 \\
 \\\\
-Oct.Code.Storage.Slots.Remaining=\\untranslated
+Oct.Code.Storage.Slots.Remaining=残り\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Insufficient=Insufficient Slots
 \\
 \\\\
-Oct.Code.Storage.Slots.Insufficient=\\untranslated
+Oct.Code.Storage.Slots.Insufficient=スロットが不足しています\\autotranslated
 
 \\\\
 \\
@@ -26251,14 +26251,14 @@ Oct.Code.Trade.YourKingdom=あなたの王国
 \\	Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Insufficient Storage
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=ストレージ不足\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Transport.Item.Command.Blocked.Processing=Processing
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.Processing=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.Processing=処理\\autotranslated
 
 \\\\
 \\
@@ -26468,14 +26468,14 @@ Oct.Code.Visibility.Items.Stats=アイテムのステータス
 \\	Oct.Code.Visibility.Items.Ignored=Ignored Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.Ignored=\\untranslated
+Oct.Code.Visibility.Items.Ignored=無視されたアイコン\\autotranslated
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Items.InsufficientStorage=Storage Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.InsufficientStorage=\\untranslated
+Oct.Code.Visibility.Items.InsufficientStorage=ストレージアイコン\\autotranslated
 
 \\\\
 \\
@@ -27087,7 +27087,7 @@ Oct.Commands.Jobs.Nursing.name=看護
 \\	Oct.Commands.Jobs.Nursing.tooltip=Nursing determines how quickly and successfully this Mortal treats other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Nursing.tooltip=看護は、このキャラクターが他のキャラクターを治療する際の早さや成功率を<br>決定します。
+Oct.Commands.Jobs.Nursing.tooltip=看護は、このキャラクターが他のキャラクターを治療する際の早さや成功率を決定します。
 
 \\\\
 \\
@@ -27145,7 +27145,7 @@ Oct.Commands.Jobs.Building.name=建設
 \\	Oct.Commands.Jobs.Building.tooltip=Building is very important in Noble Fates. Building determines the speed, precision, and quality of props that the Mortal builds. In addition, Building Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Building.tooltip=建設はNoble Fatesにおいてとても重要な要素です。建設によって、キャラクター<br>が設備を作る際の速度や精度や品質が決まります。設備は品質が<br>高いほど劣化速度が遅くなります。また、建設スキルによって、より高度<br>なレシピにアクセスできます。
+Oct.Commands.Jobs.Building.tooltip=建設はNoble Fatesにおいてとても重要な要素です。建設によって、キャラクターが設備を作る際の速度や精度や品質が決まります。設備は品質が高いほど劣化速度が遅くなります。また、建設スキルによって、より高度なレシピにアクセスできます。
 
 \\\\
 \\
@@ -27178,7 +27178,7 @@ Oct.Commands.Jobs.Logging.name=伐採
 \\	Oct.Commands.Jobs.Logging.tooltip=Logging determines how quickly and successfully the Mortal can cut down Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Logging.tooltip=伐採は、キャラクターが植物を伐採する際の早さや成功率を決定します。資源の<br>収穫量に直接寄与します。
+Oct.Commands.Jobs.Logging.tooltip=伐採は、キャラクターが植物を伐採する際の早さや成功率を決定します。資源の収穫量に直接寄与します。
 
 \\\\
 \\
@@ -27207,7 +27207,7 @@ Oct.Commands.Jobs.Farming.name=農業
 \\	Oct.Commands.Jobs.Farming.tooltip=Farming determines how quickly and successfully the Mortal can Plant and Harvest Crops - having a direct impact on their resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Farming.tooltip=農業は、キャラクターが作物を植えたり収穫する際の早さや成功率を決定します。<br>資源の収穫量に直接影響します。
+Oct.Commands.Jobs.Farming.tooltip=農業は、キャラクターが作物を植えたり収穫する際の早さや成功率を決定します。資源の収穫量に直接影響します。
 
 \\\\
 \\
@@ -27234,7 +27234,7 @@ Oct.Commands.Jobs.Foraging.name=採集
 \\	Oct.Commands.Jobs.Foraging.tooltip=Foraging determines how quickly and successfully the Mortal can Harvest Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Foraging.tooltip=採集は、キャラクターが植物を収穫する際の早さや成功率を決定します。資源の<br>収穫量に直接寄与します。
+Oct.Commands.Jobs.Foraging.tooltip=採集は、キャラクターが植物を収穫する際の早さや成功率を決定します。資源の収穫量に直接寄与します。
 
 \\\\
 \\
@@ -27261,7 +27261,7 @@ Oct.Commands.Jobs.Hauling.name=運搬
 \\	Oct.Commands.Jobs.Hauling.tooltip=Hauling determines how quickly the Mortal can Haul items. In addition, Hauling Skill controls the number of items that can be carried at the same time.
 \\
 \\\\
-Oct.Commands.Jobs.Hauling.tooltip=運搬は、キャラクターがアイテムを運搬する際の早さや成功率を決定します。<br>また、同時に運べるアイテムの数は運搬スキルによって決まります。
+Oct.Commands.Jobs.Hauling.tooltip=運搬は、キャラクターがアイテムを運搬する際の早さや成功率を決定します。また、同時に運べるアイテムの数は運搬スキルによって決まります。
 
 \\\\
 \\
@@ -27288,7 +27288,7 @@ Oct.Commands.Jobs.Crafting.name=作成
 \\	Oct.Commands.Jobs.Crafting.tooltip=Crafting is important in Noble Fates. Crafting determines the speed, precision, and quality of items that the Mortal crafts. Higher quality leads to higher rarity of items crafted. In addition, Crafting Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Crafting.tooltip=作成はNoble Fatesにおいてとても重要な要素です。作成によって、<br>キャラクターが作成を行う際の速度や精度や品質が決まります。<br>品質が高いほど作成したアイテムの希少度も上がります。また、<br>作成スキルによって、より高度なレシピにアクセスできます。
+Oct.Commands.Jobs.Crafting.tooltip=作成はNoble Fatesにおいてとても重要な要素です。作成によって、キャラクターが作成を行う際の速度や精度や品質が決まります。品質が高いほど作成したアイテムの希少度も上がります。また、作成スキルによって、より高度なレシピにアクセスできます。
 
 \\\\
 \\
@@ -27348,7 +27348,7 @@ Oct.Commands.Jobs.Hunting.name=狩猟
 \\	Oct.Commands.Jobs.Hunting.tooltip=Hunting determines how quickly and successfully the Mortal can Hunt Animals.<br><br>Hunting is backed by the Ranged Skill which controls the speed and accuracy of their ranged shots, which shots they will attempt, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Hunting.tooltip=狩猟は、キャラクターが動物を狩猟する際の早さや成功率を決定します。<br><br>狩猟は遠隔スキルに依存しており、遠隔スキルによって射撃の速度や精度、<br>試みる射撃の種類、そしてターゲットに与える武器ダメージが変わってきます。
+Oct.Commands.Jobs.Hunting.tooltip=狩猟は、キャラクターが動物を狩猟する際の早さや成功率を決定します。<br><br>狩猟は遠隔スキルに依存しており、遠隔スキルによって射撃の速度や精度、試みる射撃の種類、そしてターゲットに与える武器ダメージが変わってきます。
 
 \\\\
 \\
@@ -27379,7 +27379,7 @@ Oct.Commands.Jobs.Cooking.name=料理
 \\	Oct.Commands.Jobs.Cooking.tooltip=Cooking determines how quickly and successfully the Mortal can Cook. Cooking contributes to recipe yield.
 \\
 \\\\
-Oct.Commands.Jobs.Cooking.tooltip=料理は、キャラクターが料理を行う際の早さや成功率を決定します。料理は<br>レシピの収穫量に寄与します。
+Oct.Commands.Jobs.Cooking.tooltip=料理は、キャラクターが料理を行う際の早さや成功率を決定します。料理はレシピの収穫量に寄与します。
 
 \\\\
 \\
@@ -27410,7 +27410,7 @@ Oct.Commands.Jobs.FireFighting.name=消火活動
 \\	Oct.Commands.Jobs.FireFighting.tooltip=Fire Fighting Skill is based on the Mortal's level. It determines how quickly they fight fires, how successful they are at putting them out, and how likely they are to catch on fire themselves!
 \\
 \\\\
-Oct.Commands.Jobs.FireFighting.tooltip=消火スキルはキャラクターのレベルに基づいています。消火スキルによって、<br>消火速度や成功率、そして自分自身に着火してしまう確率が変わってきます！
+Oct.Commands.Jobs.FireFighting.tooltip=消火スキルはキャラクターのレベルに基づいています。消火スキルによって、消火速度や成功率、そして自分自身に着火してしまう確率が変わってきます！
 
 \\\\
 \\
@@ -27458,7 +27458,7 @@ Oct.Commands.Jobs.Preaching.name=布教
 \\	Oct.Commands.Jobs.Preaching.tooltip=Preaching determines how quickly and successfully this Mortal influences other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Preaching.tooltip=布教は、このキャラクターが他のキャラクターに影響を与える際の早さや成功率<br>を決定します。
+Oct.Commands.Jobs.Preaching.tooltip=布教は、このキャラクターが他のキャラクターに影響を与える際の早さや成功率を決定します。
 
 \\\\
 \\
@@ -27792,7 +27792,7 @@ Oct.Commands.Types.Haul.name=運搬
 \\	Oct.Commands.Types.Transport.Item.name=Store
 \\
 \\\\
-Oct.Commands.Types.Transport.Item.name=\\untranslated
+Oct.Commands.Types.Transport.Item.name=保存
 
 \\\\
 \\
@@ -28058,14 +28058,14 @@ Oct.Commands.Types.Influence.name=布教:
 \\	Oct.Commands.Types.Evangelize.name=Evangelize
 \\
 \\\\
-Oct.Commands.Types.Evangelize.name=\\untranslated
+Oct.Commands.Types.Evangelize.name=伝道する\\autotranslated
 
 \\\\
 \\
 \\	Oct.Commands.Types.Evangelize.tooltip=Your Preachers share information with the Target that they think raise their Opinion of your Ruler. Other Mortals who Dislike the information may overhear it and have a Negative Reaction.<br><br>Preaching Skill and Reasoning determine how well they pick information to share and how well it is received by those who hear it.<br><br>Preachers will stop when they run out of things to share or the Target Likes (or Loves when Ordered via Right Click) your Ruler.
 \\
 \\\\
-Oct.Commands.Types.Evangelize.tooltip=\\untranslated
+Oct.Commands.Types.Evangelize.tooltip=説教師は、対象者の君主に対する評価を高めると思われる情報を、対象者と共有します。その情報を好まない他の人間は、それを耳にして否定的な反応を示す可能性があります。<br><br>説教師のスキルと推論力は、共有する情報の選択の精度と、それを聞いた人々の反応の良し悪しを決定します。<br><br>説教師は、共有する情報がなくなるか、対象者が君主を「いいね！」した時（右クリックで「いいね！」した場合は「大好き」）に、共有を中止します。\\autotranslated
 
 \\\\
 \\
@@ -30188,28 +30188,28 @@ Oct.Crisis.CaptureFriendly.Conversation.RulerToSelf.Ask.Decision.No.Nudge.Confir
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.caption=はい
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target} is Executed.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.Yes.tooltip={target}が処刑された。<br><br>戦いは、{target.kingdom}軍が逃走し王国が崩壊するまで続く。
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.caption=いいえ
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=戦いは{target}が降伏するまで続く。<br><br>その後、先方の運命を決めることになる。
 
 \\\\
 \\
@@ -30219,7 +30219,10 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=Do as you wish with me, my forces shall fight on!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=私は屈しない！
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=降伏などしない！
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=降伏することはない！
+Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=私のことは好きにしろ。わが軍が戦い続けるだろう！
 
 \\\\
 \\
@@ -30228,14 +30231,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Intro.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToNoble.Ask.lines+={pawn.address}、{target}はまだ降伏していないが、処刑するのか？
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=Execute {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt={target}を処刑しますか？
 
 \\\\
 \\
@@ -30244,7 +30247,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=Yes! How dare you question an order from me!
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=ああ、指令に従え。
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=当然だ。私は間違いは犯さない。
+Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=ああ！我が命令に疑問を呈するつもりか！
 
 \\\\
 \\
@@ -30253,7 +30258,9 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Yes.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=No, no. Good catch.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=いや、当然やめてくれ。
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=おっと、間違えた。
+Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=いや。よく指摘してくれた。
 
 \\\\
 \\
@@ -30262,35 +30269,35 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.No.RulerToNoble.lines+=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=Hrm... Execute {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Execute.Conversation.NobleToSelf.Ask.lines+=うーむ...{target}はまだ降伏していないが、処刑するか？
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.caption=はい
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target} is Captured.<br><br>The fight continues until {target.kingdom} forces Flee and the Kingdom Dissolves.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.Yes.tooltip={target}が捕虜にされた。<br><br>戦いは、{target.kingdom}軍が逃走し王国が崩壊するまで続く。
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=No
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.caption=いいえ
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=The fight continues until {target} Surrenders.<br><br>You decide their Fate then.
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=戦いは{target}が降伏するまで続く。<br><br>その後、先方の運命を決めることになる。
 
 \\\\
 \\
@@ -30299,14 +30306,14 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.No.tooltip=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}, Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToNoble.Ask.lines+={pawn.address}、{target}はまだ降伏していないが、捕虜にするのか？
 
 \\\\
 \\
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=Capture {target}?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt={target}を捕虜にしますか？
 
 \\\\
 \\
@@ -30315,7 +30322,7 @@ Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Decision.prompt=\\untranslated
 \\	Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=Hrm... Capture {target} before they've Surrendered?
 \\
 \\\\
-Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=\\untranslated
+Oct.Crisis.Enemy.Ruler.NoSurrender.Capture.Conversation.NobleToSelf.Ask.lines+=うーむ...{target}はまだ降伏していないが、捕虜にするか？
 
 \\\\
 \\
@@ -31851,9 +31858,6 @@ Oct.Grammar.Lines.Opinion.Third.Third.Third.results+=^[Oct.Grammar.Opinion.Noun.
 \\\\
 Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
 Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -31862,7 +31866,9 @@ Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 \\
 \\\\
-Oct.Grammar.Lines.Alignment.Details.First.results+=\\untranslated
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}と<Oct.Grammar.Noun.First.Think>。
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -37136,7 +37142,7 @@ Oct.Items.GrapplingHook.Bronze.pluralName=銅の鉤縄
 \\	Oct.Items.GrapplingHook.Bronze.Projectile.name=Bronze Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Bronze.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Bronze.Projectile.name=銅の鉤縄
 
 \\\\
 \\
@@ -37157,7 +37163,7 @@ Oct.Items.GrapplingHook.Steel.pluralName=鋼の鉤縄
 \\	Oct.Items.GrapplingHook.Steel.Projectile.name=Steel Grappling Hook
 \\
 \\\\
-Oct.Items.GrapplingHook.Steel.Projectile.name=\\untranslated
+Oct.Items.GrapplingHook.Steel.Projectile.name=鋼の鉤縄
 
 \\\\
 \\
@@ -42217,7 +42223,6 @@ Oct.Kingdoms.Diplomacy.War.Conquer.details={from.kingdom}が全力で我が王�
 \\\\
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=決着をつける時が来たようだな。
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=よし、解決しよう。
-Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=そうか、勝手にしろ。
 
 \\\\
 \\
@@ -47884,35 +47889,35 @@ Oct.Petitions.Concession.Allegiance.Break.Mission.succeededCaption=忠誠を破�
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.caption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.caption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.caption=属国を解放する
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.details=We promised {petitioner} that we'd release {mission.target} from their Allegiance!<br><br>There will be consequences with {petitioner} if we break our promise.
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.details=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.details={mission.target}の忠誠を解くと{petitioner}に約束した！<br><br>約束を破れば{petitioner}の反感を買うだろう。
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=Promised
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.requestCaption=約束した
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=Release Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.successCaption=属国を解放する
 
 \\\\
 \\
 \\	Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=Released Vassal
 \\
 \\\\
-Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=\\untranslated
+Oct.Petitions.Concession.Allegiance.Release.Mission.succeededCaption=属国を解放した
 
 \\\\
 \\
@@ -48223,7 +48228,7 @@ Oct.Petitions.Defense.Shields.Conversation.Shield.Ranged.Melee.line=近接防御
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}, {rammer} is carrying a Battering Ram!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.line={petitioner.address}、{rammer}は破城槌を持っています！
 
 \\\\
 \\
@@ -48232,7 +48237,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=They can use it make quick work of any Door that blocks them!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=あれでは行く手にどんな扉があろうと、すぐに破られてしまいます！
 
 \\\\
 \\
@@ -48241,7 +48246,7 @@ Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.line=\\untranslated
 \\	Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=Not if we stop them first!
 \\
 \\\\
-Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=\\untranslated
+Oct.Petitions.Defense.Rams.Conversation.Ram.Doors.NotIfStopped.line=そうなる前に止めるんだ！
 
 \\\\
 \\
@@ -50844,7 +50849,7 @@ Oct.Petitions.Tutorial.GatherBerries.Conversation.Surveyed.Bushes.Oh.Pick.line=�
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are about to attack {vassal}!
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={attackers}が{vassal}を攻撃している！\\autotranslated
 
 \\\\
 \\
@@ -50855,7 +50860,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=We can interrupt them by negotiating for Peace.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=おそらく私たちは平和のために交渉すべきでしょう。\\autotranslated
 
 \\\\
 \\
@@ -50866,7 +50871,7 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\unt
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Hrm. Let me think about it.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=私に任せてください。\\autotranslated
 
 \\\\
 \\
@@ -51645,14 +51650,14 @@ Oct.Places.Generators.Prefix.Noun.format={prefix}{noun}
 \\	Oct.Projectiles.FireArrow.name=Fire Arrow
 \\
 \\\\
-Oct.Projectiles.FireArrow.name=\\untranslated
+Oct.Projectiles.FireArrow.name=炎の矢
 
 \\\\
 \\
 \\	Oct.Projectiles.WoodenArrow.name=Wooden Arrow
 \\
 \\\\
-Oct.Projectiles.WoodenArrow.name=\\untranslated
+Oct.Projectiles.WoodenArrow.name=木の矢
 
 \\\\
 \\
@@ -52555,28 +52560,28 @@ Oct.Props.Attached.FineStone.Spire.Mid.prefabs.2.name=中(バリエーション)
 \\	Oct.Props.Ballista.Launcher.operateText=Operate
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operateText=\\untranslated
+Oct.Props.Ballista.Launcher.operateText=操作
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingText=Operating {prop}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingText={prop}を操作中
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.operatingAtText=Firing {prop} at {target}
 \\
 \\\\
-Oct.Props.Ballista.Launcher.operatingAtText=\\untranslated
+Oct.Props.Ballista.Launcher.operatingAtText={prop}を{target}に発射中
 
 \\\\
 \\
 \\	Oct.Props.Ballista.Launcher.Projectile.name=Ballista Bolt
 \\
 \\\\
-Oct.Props.Ballista.Launcher.Projectile.name=\\untranslated
+Oct.Props.Ballista.Launcher.Projectile.name=バリスタボルト
 
 \\\\
 \\
@@ -52611,21 +52616,21 @@ Oct.Props.Ballista.description=大型の投擲装置。<br>正確。単体の標
 \\	Oct.Props.Ballista.colorSlots.1.name=Primary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.1.name=木材
+Oct.Props.Ballista.colorSlots.1.name=主要な\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.2.name=Secondary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.2.name=木材
+Oct.Props.Ballista.colorSlots.2.name=二次\\autotranslated
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.3.name=Rope
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.3.name=木材
+Oct.Props.Ballista.colorSlots.3.name=ロープ\\autotranslated
 
 \\\\
 \\
@@ -54592,7 +54597,7 @@ Oct.Props.Carpet.4CornerPrefab.name=4角
 \\	Oct.Props.Catapult.Launcher.Projectile.name=Boulder
 \\
 \\\\
-Oct.Props.Catapult.Launcher.Projectile.name=\\untranslated
+Oct.Props.Catapult.Launcher.Projectile.name=大岩
 
 \\\\
 \\
@@ -68055,7 +68060,7 @@ Oct.Settings.Game.RaidChance.name=襲撃チャンス
 \\	Oct.Settings.Game.RaidChance.tooltip=Scales the frequency of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidChance.tooltip=\\untranslated
+Oct.Settings.Game.RaidChance.tooltip=NPC王国から襲撃を受ける頻度を変更します。
 
 \\\\
 \\
@@ -68426,14 +68431,14 @@ Oct.Settings.Game.AI.Wealth.tooltip=AI王国の富の蓄積効率。
 \\	Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Inconvenience Premium
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.name=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.name=AIキングダム不便プレミアム\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Game.AI.InconveniencePremium.tooltip=How much AI Kingdoms raise rates on Concessions for Items they consider inconvenient (< 25c per stack).
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.tooltip=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.tooltip=AI 王国が不便だと判断したアイテムの譲歩率をどの程度引き上げるか (1 スタックあたり 25 セント未満)。\\autotranslated
 
 \\\\
 \\
@@ -68475,7 +68480,7 @@ Oct.Settings.Game.RaidDifficulty.name=襲撃の難易度
 \\	Oct.Settings.Game.RaidDifficulty.tooltip=Scales the difficulty of Raids from NPC Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.tooltip=NPC王国から受ける襲撃の難易度を変更します。
 
 \\\\
 \\
@@ -68496,14 +68501,14 @@ Oct.Settings.Game.RaidUnannounced.tooltip=有効時、襲撃が警告なしに�
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.name=Outgoing Raid Difficulty
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.name=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.name=自国の襲撃の難易度
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=Scales the difficulty of Raids from Player Kingdoms.
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=\\untranslated
+Oct.Settings.Game.RaidDifficulty.Outgoing.tooltip=プレイヤー王国が行う襲撃の難易度を変更します。
 
 \\\\
 \\
@@ -68888,21 +68893,21 @@ Oct.Settings.Global.Graphics.ShadowQuality.choices.2=低
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Medium
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.3=高
+Oct.Settings.Global.Graphics.ShadowQuality.choices.3=中くらい\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.4=High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.4=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.4=高
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Very High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.5=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.5=非常に高い\\autotranslated
 
 \\\\
 \\
@@ -68944,7 +68949,7 @@ Oct.Settings.Global.Graphics.FilmGrain.name=フィルムグレイン
 \\	Oct.Settings.Global.Graphics.EdgeHighlights.name=Edge Highlights
 \\
 \\\\
-Oct.Settings.Global.Graphics.EdgeHighlights.name=\\untranslated
+Oct.Settings.Global.Graphics.EdgeHighlights.name=エッジハイライト
 
 \\\\
 \\
@@ -68979,28 +68984,28 @@ Oct.Settings.Global.Graphics.Destruction.name=破壊
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.name=Main Menu Simulation
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.name=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.name=メインメニュー シミュレーション\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Controls whether a Simulation runs underneath the Main Menu.
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=メイン メニューの下でシミュレーションを実行するかどうかを制御します。\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.name=Reachability CPU
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.name=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.name=到達可能性CPU\\autotranslated
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Additional CPU Resources to dedicate to minimizing Reachability update latency. Decrease in latency is exponential, with 0% resulting in 10s of latency, 25% in ~1s, and 100% in ~.25s.
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=到達可能性の更新レイテンシを最小限に抑えるために、追加のCPUリソースを割り当てます。レイテンシは指数関数的に減少し、0%の場合は10秒、25%の場合は約1秒、100%の場合は約0.25秒になります。\\autotranslated
 
 \\\\
 \\
@@ -69805,7 +69810,7 @@ Oct.Settings.Global.Controls.Layers.Navigate.suffix=+ [ホイール]
 \\	Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Invert Layer Navigation
 \\
 \\\\
-Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=\\untranslated
+Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=レイヤーナビゲーションを反転\\autotranslated
 
 \\\\
 \\
